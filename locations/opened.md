@@ -1,77 +1,77 @@
 # Открыта регистрация
 
-**[Стамбул, Турция 29.07.2023](https://t.me/peredelanoconf_istanbul)**
+**[29.07.2023 Стамбул, Турция](https://t.me/peredelanoconf_istanbul)**
 
-**[Питер, Россия 22.07.2023](https://t.me/piter_meetup)**
+**[22.07.2023 Питер, Россия](https://t.me/piter_meetup)**
 
-**[Бангкок, Таиланд 19.08.2023](https://t.me/peredelanoconf_bangkok)**
+**[19.08.2023 Бангкок, Таиланд](https://t.me/peredelanoconf_bangkok)**
 
-**[Пхукет, Таиланд 05.08.2023](https://t.me/peredelanoconf)**
+**[05.08.2023 Пхукет, Таиланд](https://t.me/peredelanoconf)**
 
-**[Казань, Россия 05.08.2023](https://t.me/meetup_kazan)**
+**[05.08.2023 Казань, Россия](https://t.me/meetup_kazan)**
 
-**[Белград, Сербия 12.08.2023](https://t.me/peredelanoconfbelgrade)**
+**[12.08.2023 Белград, Сербия](https://t.me/peredelanoconfbelgrade)**
 
-**[Ереван, Армения 19.08.2023](https://t.me/peredelanoconfyerevan)**
+**[19.08.2023 Ереван, Армения](https://t.me/peredelanoconfyerevan)**
 
-**[Новосибирск, Россия 19.08.2023](https://t.me/NskDevMeetup)**
+**[19.08.2023 Новосибирск, Россия](https://t.me/NskDevMeetup)**
 
-**[Лиссабон, Португалия 19.08.2023](https://t.me/peredelanoconflisbon)**
+**[19.08.2023 Лиссабон, Португалия](https://t.me/peredelanoconflisbon)**
 
-**[Барселона, Испания 26.08.2023](https://t.me/peredelanoconfbarcelona)**
+**[26.08.2023 Барселона, Испания](https://t.me/peredelanoconfbarcelona)**
 
-**[Бишкек, Кыргызстан 26.08.2023](https://t.me/peredelanoconf_bishkek)**
+**[26.08.2023 Бишкек, Кыргызстан](https://t.me/peredelanoconf_bishkek)**
 
-**[Буэнос-Айрес, Аргентина 02.09.2023](https://t.me/peredelanoconfargentina)**
+**[02.09.2023 Буэнос-Айрес, Аргентина](https://t.me/peredelanoconfargentina)**
 
-**[Будва, Черногория 02.09.2023](https://t.me/peredelanoconf_montenegro)**
+**[02.09.2023 Будва, Черногория](https://t.me/peredelanoconf_montenegro)**
 
-**[Варшава, Польша  02.09.2023](https://t.me/peredelanoconf_warsaw)**
+**[02.09.2023 Варшава, Польша](https://t.me/peredelanoconf_warsaw)**
 
-**[Лондон, Англия 16.09.2023](https://t.me/peredelanoconf_england)**
+**[16.09.2023 Лондон, Англия](https://t.me/peredelanoconf_england)**
 
-**[Париж, Франция 16.09.2023](https://t.me/peredelano_France)**
+**[16.09.2023 Париж, Франция](https://t.me/peredelano_France)**
 
-**[Хельсинки, Финляндия 26.08.2023](https://t.me/peredelanoconfhelsinki)**
+**[26.08.2023 Хельсинки, Финляндия](https://t.me/peredelanoconfhelsinki)**
 
-**[Астана, Казахстан 12.08.2023](https://t.me/peredelano_Astana)**
+**[12.08.2023 Астана, Казахстан](https://t.me/peredelano_Astana)**
 
-**[Батуми, Грузия 26.08.2023](https://t.me/peredelano_batumi)**
+**[26.08.2023 Батуми, Грузия](https://t.me/peredelano_batumi)**
 
-**[Душанбе, Таджикистан 30.09.2023](https://t.me/peredelano_dushanbe)**
+**[30.09.2023 Душанбе, Таджикистан](https://t.me/peredelano_dushanbe)**
 
-**[Баку, Азербайджан 30.09.2023](https://t.me/peredelanoconfbaku)**
+**[30.09.2023 Баку, Азербайджан](https://t.me/peredelanoconfbaku)**
 
-**[Копенгаген, Дания 30.09.2023](https://t.me/peredelano_copenhagen)**
+**[30.09.2023 Копенгаген, Дания](https://t.me/peredelano_copenhagen)**
 
-**[Ханой, Вьетнам 23.09.2023](https://t.me/Peredelanoconfvietnam)**
+**[23.09.2023 Ханой, Вьетнам](https://t.me/Peredelanoconfvietnam)**
 
-**[Будапешт, Венгрия 16.09.2023](https://t.me/peredelanoconf_hungary)**
+**[16.09.2023 Будапешт, Венгрия](https://t.me/peredelanoconf_hungary)**
 
-**[Пномпень, Камбоджа 23.09.2023](https://t.me/peredelano_phnompenh)**
+**[23.09.2023 Пномпень, Камбоджа](https://t.me/peredelano_phnompenh)**
 
-**[Милан, Италия 16.09.2023](https://t.me/peredelano_milan)**
+**[16.09.2023 Милан, Италия](https://t.me/peredelano_milan)**
 
-**[Дубай, ОАЭ 16.09.2023](https://t.me/peredelanoconf_dubai)**
+**[16.09.2023 Дубай, ОАЭ](https://t.me/peredelanoconf_dubai)**
 
-**[Бали, Индонезия 16.09.2023](https://t.me/peredelano_bali)**
+**[16.09.2023 Бали, Индонезия](https://t.me/peredelano_bali)**
 
-**[Любляна, Словения 07.10.2023](https://t.me/peredelano_slovenia)**
+**[07.10.2023 Любляна, Словения](https://t.me/peredelano_slovenia)**
 
-**[Вена, Австрия 07.10.2023](https://t.me/peredelano_vienna)**
+**[07.10.2023 Вена, Австрия](https://t.me/peredelano_vienna)**
 
-**[Кейптаун, ЮАР 07.10.2023](https://t.me/peredelano_capetown)**
+**[07.10.2023 Кейптаун, ЮАР](https://t.me/peredelano_capetown)**
 
-**[Дублин, Ирландия 07.10.2023](https://t.me/peredelano_dublin)**
+**[07.10.2023 Дублин, Ирландия](https://t.me/peredelano_dublin)**
 
-**[Сингапур 23.09.2023](https://t.me/peredelano_singapore)**
+**[23.09.2023 Сингапур](https://t.me/peredelano_singapore)**
 
-**[Манила, Филиппины 23.09.2023](https://t.me/peredelano_maynila)**
+**[23.09.2023 Манила, Филиппины](https://t.me/peredelano_maynila)**
 
-**[Сеул, Южная Корея 16.09.2023](https://t.me/peredelano_seoul)**
+**[16.09.2023 Сеул, Южная Корея](https://t.me/peredelano_seoul)**
 
-**[Хайфа, Израиль 16.09.2023](https://t.me/peredelano_israel)**
+**[16.09.2023 Хайфа, Израиль](https://t.me/peredelano_israel)**
 
-**[Москва, Россия 16.09.2023](https://t.me/moscow_meetup)**
+**[16.09.2023 Москва, Россия](https://t.me/moscow_meetup)**
 
-**[Осло, Норвегия 23.09.2023](https://t.me/peredelano_oslo)**
+**[23.09.2023 Осло, Норвегия](https://t.me/peredelano_oslo)**
