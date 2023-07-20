@@ -4,6 +4,8 @@
 
 **[Питер, Россия 22.07.2023](https://t.me/piter_meetup)**
 
+**[Бангкок, Таиланд 19.08.2023](https://t.me/peredelanoconf_bangkok)**
+
 **[Пхукет, Таиланд 05.08.2023](https://t.me/peredelanoconf)**
 
 **[Казань, Россия 05.08.2023](https://t.me/meetup_kazan)**
