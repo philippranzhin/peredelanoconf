@@ -73,3 +73,5 @@
 **[Хайфа, Израиль 16.09.2023](https://t.me/peredelano_israel)**
 
 **[Москва, Россия 16.09.2023](https://t.me/moscow_meetup)**
+
+**[Осло, Норвегия 23.09.2023](https://t.me/peredelano_oslo)**
