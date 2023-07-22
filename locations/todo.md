@@ -9,3 +9,5 @@
 **[Нью-Йорк, США](https://t.me/peredelanoconf_ny)**
 
 **[Великобритания](https://t.me/peredelanoconf_uk)**
+
+Вильнюс, Литва
