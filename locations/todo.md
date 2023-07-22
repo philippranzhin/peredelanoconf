@@ -10,4 +10,4 @@
 
 **[Великобритания](https://t.me/peredelanoconf_uk)**
 
-Вильнюс, Литва
+**[Вильнюс, Литва](https://t.me/peredelano_vilnius)**
