@@ -2,10 +2,6 @@
 
 ## Июль 2023 
 
-### 22.07.2023
-
-**[Питер, Россия](https://t.me/piter_meetup)**
-
 ### 29.07.2023
 
 **[Стамбул, Турция](https://t.me/peredelanoconf_istanbul)**
