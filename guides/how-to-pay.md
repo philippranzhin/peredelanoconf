@@ -19,11 +19,17 @@ BinanceID — 457250683
 ### WISE/Revolut — межбанковский перевод 
 
 Account number — 4651509970
+
 Bank name — Bank of Ayudhya (Krungsri bank)
+
 Account holder — Ilya Lakhov
+
 EMail —peredelanoconf@gmail.com
+
 Adress — Phuket, 96/61 Soi Huay Nam Toe
+
 Post code — 83000
+
 Bic/swift AYUDTHBK
 
 ----
