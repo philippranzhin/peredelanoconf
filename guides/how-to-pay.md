@@ -24,7 +24,7 @@ Bank name — Bank of Ayudhya (Krungsri bank)
 
 Account holder — Ilya Lakhov
 
-EMail —peredelanoconf@gmail.com
+EMail — peredelanoconf@gmail.com
 
 Adress — Phuket, 96/61 Soi Huay Nam Toe
 
