@@ -11,3 +11,5 @@
 **[Прага, Чехия](https://t.me/peredelanoconf_czechia)**
 
 **[Ташкент, Узбекистан 05.08.2023](https://t.me/peredelanoconftashkent)**
+
+**[Питер, Россия](https://t.me/piter_meetup)**
