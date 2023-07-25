@@ -17,5 +17,3 @@
 **[Суботица, Сербия](https://t.me/peredelano_subotica)**
 
 **[Белград, Сербия](https://t.me/peredelano_belgrade)**
-
-

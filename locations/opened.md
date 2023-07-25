@@ -1,6 +1,6 @@
 # Открыта регистрация
 
-## Июль 2023 
+## Июль 2023
 
 ### 29.07.2023
 
@@ -9,6 +9,7 @@
 ## Август 2023
 
 ### 05.08.2023
+
 **[Пхукет, Таиланд](https://t.me/peredelanoconf)**
 
 **[Казань, Россия](https://t.me/meetup_kazan)**
@@ -20,6 +21,7 @@
 **[Астана, Казахстан](https://t.me/peredelano_Astana)**
 
 ### 19.08.2023
+
 **[Бангкок, Таиланд](https://t.me/peredelanoconf_bangkok)**
 
 **[Ереван, Армения](https://t.me/peredelanoconfyerevan)**
@@ -41,6 +43,7 @@
 ## Сентябрь 2023
 
 ### 02.09.2023
+
 **[Буэнос-Айрес, Аргентина](https://t.me/peredelanoconfargentina)**
 
 **[Будва, Черногория](https://t.me/peredelanoconf_montenegro)**
