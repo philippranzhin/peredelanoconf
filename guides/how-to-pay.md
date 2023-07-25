@@ -1,13 +1,14 @@
 # Как оплатить вход на конфу
 
-### Рубли
+## Рубли
 
-Тинькофф общий сбор https://www.tinkoff.ru/cf/87UgKhvRo4p
+Тинькофф общий сбор [сюда](https://www.tinkoff.ru/cf/87UgKhvRo4p)
 
 Тинькофф карта 5536914125758205
 
 ---
-### Крипта 
+
+## Крипта
 
 USDT TRON (TRC20) — TTiY7unVVbS9aY8jVrtyD6mR89PrQ6rp4N
 
@@ -15,8 +16,7 @@ BinanceID — 457250683
 
 ---
 
-
-### WISE/Revolut — межбанковский перевод 
+## WISE/Revolut — межбанковский перевод
 
 Account number — 4651509970
 
@@ -24,7 +24,7 @@ Bank name — Bank of Ayudhya (Krungsri bank)
 
 Account holder — Ilya Lakhov
 
-EMail — peredelanoconf@gmail.com
+EMail — [peredelanoconf@gmail.com](peredelanoconf@gmail.com)
 
 Adress — Phuket, 96/61 Soi Huay Nam Toe
 
@@ -32,9 +32,9 @@ Post code — 83000
 
 Bic/swift AYUDTHBK
 
-----
+---
 
-### Wallet в Telegram 
+## Wallet в Telegram
 
 Пополнение в $ и € с карты, затем перевод по нику в тг @ilakhov ну или по кошельку
 
@@ -44,8 +44,8 @@ USDT — TAaR5NEpvduBqFWDVGXmrUqZGEJdfis4U1
 
 BITCOIN — 19khpJc5P57JLHwKSCHZh86vQoc2APPQY3
 
-----
+---
 
 Актуальная цена на конфу указана в закрепе чата конфы
 
-При оплате по возможности указывайте свой ник в телеграме, или присылайте скрин перевода https://t.me/OldOleg
+При оплате по возможности указывайте свой ник в телеграме, или присылайте скрин перевода [сюда](https://t.me/OldOleg)
