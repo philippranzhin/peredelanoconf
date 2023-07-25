@@ -59,3 +59,9 @@ _описание классического Peredelanoconf_
 **[Ценности сообщества Peredelanoconf](/./guides/values.md)**
 
 **[Мы в медиа](/./media/networks.md)**
+
+**[Города, где открыта регистрация](/./locations/opened.md)**
+
+**[Города, где скоро откроется](/./locations/on-hold.md)**
+
+**[Города, где пока набираем людей](/./locations/todo.md)**
