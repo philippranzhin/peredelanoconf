@@ -52,8 +52,10 @@ _описание классического Peredelanoconf_
 - послушать интересные доклады и выступления на любые темы
 - хорошо провести время, повеселиться и расслабиться
 
-### [Технические выступления на Pereddelanoconf + как стать спикером](/./guides/tech-speech.md)
+**[Технические выступления на Pereddelanoconf + как стать спикером](/./guides/tech-speech.md)**
 
-### [Что получает гость Peredelanoconf кроме участия в конференции](/./guides/product.md)
+**[Что получает гость Peredelanoconf кроме участия в конференции](/./guides/product.md)**
 
-### [Ценности сообщества Peredelanoconf](/./guides.values.md)
+**[Ценности сообщества Peredelanoconf](/./guides/values.md)**
+
+**[Мы в медиа](/./media/networks.md)**
