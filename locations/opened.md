@@ -52,6 +52,10 @@
 
 ### 16.09.2023
 
+**[Тбилиси, Грузия](/./upcoming-events/tbilisi-09.09,23,md)**
+
+### 16.09.2023
+
 **[Ташкент, Узбекистан](/./incomig-events/tashkent-09.16.23.md)**
 
 **[Лондон, Англия](https://t.me/peredelanoconf_england)**
