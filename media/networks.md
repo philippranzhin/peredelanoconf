@@ -1,4 +1,6 @@
-# Мы в соцсетях
+# Мы а медиа
+
+## Мы в соцсетях
 
 ### [Twitter](https://twitter.com/peredelano_conf)
 
@@ -6,7 +8,7 @@
 
 ### [Telegram](https://t.me/peredelanoconfchannel)
 
-# Статьи в медиа
+## Статьи в медиа
 
 ### [Что будет дальше](https://habr.com/ru/articles/733738/)
 
@@ -16,7 +18,7 @@
 
 ### [Я сбежал из РФ на Пхукет, полностью утратил способность жить и работать, но меня спасла идея делать здесь IT конференции](https://vc.ru/u/512281-fil-ranzhin/603574-ya-sbezhal-iz-rf-na-phuket-polnostyu-utratil-sposobnost-zhit-i-rabotat-no-menya-spasla-ideya-delat-zdes-it-konferencii)
 
-# Фаундеры
+## Фаундеры
 
 ### [Илья Лахов](https://twitter.com/lakhovilya)
 
