@@ -52,6 +52,8 @@
 
 ### 16.09.2023
 
+**[Ташкент, Узбекистан](/./incomig-events/tashkent-09.16.23.md)**
+
 **[Лондон, Англия](https://t.me/peredelanoconf_england)**
 
 **[Париж, Франция](https://t.me/peredelano_France)**
