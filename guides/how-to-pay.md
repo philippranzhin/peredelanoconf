@@ -32,6 +32,8 @@ Post code — 83000
 
 Bic/swift AYUDTHBK
 
+**Валюта пополнения — THB**
+
 ---
 
 ## Wallet в Telegram
