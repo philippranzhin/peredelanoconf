@@ -17,3 +17,5 @@
 **[Суботица, Сербия](https://t.me/peredelano_subotica)**
 
 **[Белград, Сербия](https://t.me/peredelano_belgrade)**
+
+**[Анталья, Турция](https://t.me/peredelano_antalya)**
