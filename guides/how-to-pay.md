@@ -8,6 +8,12 @@
 
 ---
 
+## Credo Bank (Georgia)
+
+GE02BG0000000538930737
+
+Balod Konstantin
+
 ## Крипта
 
 USDT TRON (TRC20) — TTiY7unVVbS9aY8jVrtyD6mR89PrQ6rp4N
