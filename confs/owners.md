@@ -1,4 +1,4 @@
-# Актуальный список акционеров Peredelanoconf
+# Список акционеров Peredelanoconf
 
 1. Фил Ранжин @fillpackart — 47,05%
 2. Илья Лахов @ilakhov — 47,05%
