@@ -14,6 +14,8 @@
 
 **[Казань, Россия](https://t.me/meetup_kazan)**
 
+**[Ташкент, Узбекистан 05.08.2023](https://t.me/peredelanoconftashkent)**
+
 ### 12.08.2023
 
 **[Белград, Сербия](https://t.me/peredelanoconfbelgrade)**
@@ -50,7 +52,7 @@
 
 **[Варшава, Польша](https://t.me/peredelanoconf_warsaw)**
 
-### 16.09.2023
+### 09.09.2023
 
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi-09.09.23.md)**
 
@@ -95,6 +97,8 @@
 **[Баку, Азербайджан](https://t.me/peredelanoconfbaku)**
 
 **[Копенгаген, Дания](https://t.me/peredelano_copenhagen)**
+
+**[Питер, Россия](https://t.me/piter_meetup)**
 
 ## Октябрь 2023
 
