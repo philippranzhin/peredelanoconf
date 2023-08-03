@@ -8,7 +8,7 @@
 
 Для тех, кто уже был хотя бы на одной из наших конф, действует скидка: билет будет стоить $85 и $70 для партнёра
 
-Регистрируйтесь на [форме]( https://docs.google.com/forms/d/e/1FAIpQLSfl1MQt8R94VnoTLSZstXiLURkYONTqwQzif-owmOa4reruVw)
+Регистрируйтесь на [форме](https://docs.google.com/forms/d/1LPLwRQfP4ihOqWAJX9-2PW9wyhil-CQaicskxPawtD4)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
 
