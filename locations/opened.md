@@ -1,11 +1,5 @@
 # Открыта регистрация
 
-## Июль 2023
-
-### 29.07.2023
-
-**[Стамбул, Турция](https://t.me/peredelanoconf_istanbul)**
-
 ## Август 2023
 
 ### 05.08.2023
@@ -77,6 +71,8 @@
 **[Хайфа, Израиль](https://t.me/peredelano_israel)**
 
 **[Москва, Россия](https://t.me/moscow_meetup)**
+
+**[Стамбул, Турция](https://t.me/peredelanoconf_istanbul)**
 
 ### 23.09.2023
 
