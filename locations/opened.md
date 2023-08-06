@@ -94,6 +94,7 @@
 
 **[Стокгольм, Швеция](/./upcoming-events/stockholm-30.09.2023.md)**
 
+**[Вроцлав, Польша](/./upcoming-events/wroclaw-30.09.2023.md)**
 
 ## Октябрь 2023
 
