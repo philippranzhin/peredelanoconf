@@ -7,3 +7,5 @@
 **[Амстердам, Нидерланды](https://t.me/peredelanoconf_amsterdam)**
 
 **[Прага, Чехия](https://t.me/peredelanoconf_czechia)**
+
+**[Пхукет, Таиланд](https://t.me/peredelanoconf)**
