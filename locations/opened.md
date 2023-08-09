@@ -10,13 +10,13 @@
 
 **[Бангкок, Таиланд](/./upcoming-events/Bangkok-19.08.2023.md)**
 
-**[Ереван, Армения](/./upcoming-events/Yerevan-26.08.2023.md)**
-
 **[Новосибирск, Россия](https://t.me/NskDevMeetup)**
 
 **[Лиссабон, Португалия](/./upcoming-events/Portugal-19.08.2023.md)**
 
 ### 26.08.2023
+
+**[Ереван, Армения](/./upcoming-events/Yerevan-26.08.2023.md)**
 
 **[Барселона, Испания](/./upcoming-events/barcelona-26.08.2023.md)**
 
