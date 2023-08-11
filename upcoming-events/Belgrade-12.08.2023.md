@@ -73,6 +73,4 @@ _Следите за новостями здесь и в чате!_
 
 # Как добраться
 
-Stari, Obrenovački drum, Beograd 11000, Serbia
-
-Stari, Обреновачки друм, Београд 11000
+[Карта](https://goo.gl/maps/T86XMrtADjSdehyC6)
