@@ -9,3 +9,7 @@
 **[Прага, Чехия](https://t.me/peredelanoconf_czechia)**
 
 **[Пхукет, Таиланд](https://t.me/peredelanoconf)**
+
+**[Белград, Сербия](/./upcoming-events/Belgrade-12.08.2023.md)**
+
+**[Новосибирск, Россия](https://t.me/NskDevMeetup)**
