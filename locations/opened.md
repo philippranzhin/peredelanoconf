@@ -72,6 +72,8 @@
 
 **[Осло, Норвегия](/./upcoming-events/oslo-23.09.2023.md)**
 
+**[Пхукет, Таиланд](/./upcoming-events/phuket-23.09.2023.md)**
+
 ### 30.09.2023
 
 **[Душанбе, Таджикистан](/./upcoming-events/dushanbe-30.09.2023.md)**
