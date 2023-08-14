@@ -2,15 +2,9 @@
 
 ## Август 2023
 
-### 12.08.2023
-
-**[Белград, Сербия](/./upcoming-events/Belgrade-12.08.2023.md)**
-
 ### 19.08.2023
 
 **[Бангкок, Таиланд](/./upcoming-events/Bangkok-19.08.2023.md)**
-
-**[Новосибирск, Россия](https://t.me/NskDevMeetup)**
 
 **[Лиссабон, Португалия](/./upcoming-events/Portugal-19.08.2023.md)**
 
@@ -66,8 +60,6 @@
 
 **[Стамбул, Турция](/./upcoming-events/istanbul-16.09.2023.md)**
 
-**[Казань, Россия](https://t.me/meetup_kazan)**
-
 ### 23.09.2023
 
 **[Пномпень, Камбоджа](/./upcoming-events/phnompenh-23.09.2023.md)**
@@ -107,3 +99,5 @@
 **[Кейптаун, ЮАР](/./upcoming-events/capetown-07.10.2023.md)**
 
 **[Дублин, Ирландия](/./upcoming-events/dublin-07.10.2023.md)**
+
+**[Казань, Россия](https://t.me/meetup_kazan)**
