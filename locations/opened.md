@@ -6,8 +6,6 @@
 
 **[Бангкок, Таиланд](/./upcoming-events/Bangkok-19.08.2023.md)**
 
-**[Новосибирск, Россия](https://t.me/NskDevMeetup)**
-
 **[Лиссабон, Португалия](/./upcoming-events/Portugal-19.08.2023.md)**
 
 ### 26.08.2023
@@ -101,3 +99,5 @@
 **[Кейптаун, ЮАР](/./upcoming-events/capetown-07.10.2023.md)**
 
 **[Дублин, Ирландия](/./upcoming-events/dublin-07.10.2023.md)**
+
+**[Казань, Россия](https://t.me/meetup_kazan)**
