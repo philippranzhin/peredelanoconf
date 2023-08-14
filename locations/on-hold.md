@@ -12,4 +12,4 @@
 
 **[Белград, Сербия](/./upcoming-events/Belgrade-12.08.2023.md)**
 
-**[Казань, Россия](https://t.me/meetup_kazan)**
+**[Новосибирск, Россия](https://t.me/NskDevMeetup)**
