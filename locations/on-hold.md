@@ -8,6 +8,4 @@
 
 **[Прага, Чехия](https://t.me/peredelanoconf_czechia)**
 
-**[Белград, Сербия](https://t.me/peredelano_belgrade)**
-
 **[Новосибирск, Россия](https://t.me/NskDevMeetup)**
