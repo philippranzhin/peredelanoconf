@@ -4,6 +4,13 @@
 
 <img src="https://github.com/Alexears/alexears/blob/main/photo_2023-08-10_21-28-09.jpg" width=100% height=100%>
 
+<table>
+  <tr>
+    <td><img src="https://github.com/Alexears/alexears/blob/main/2.jpg" width="500"/></td>
+    <td><img src="https://github.com/Alexears/alexears/blob/main/3.jpg" width="500"/></td>
+  </tr>
+</table>
+
 Больше информации о формате можно найти [здесь](/./confs/standard.md)
 
 Цена участия — $125
