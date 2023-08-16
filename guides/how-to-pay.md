@@ -17,9 +17,9 @@ Balod Konstantin
 
 ## Крипта
 
-USDT TRON (TRC20) — TTiY7unVVbS9aY8jVrtyD6mR89PrQ6rp4N
+USDT TRON (TRC20) — TGkUiyKori87EUQmWW4fqwDJNubb7yGVH2
 
-BinanceID — 457250683
+BinanceID — 750175472
 
 ---
 
