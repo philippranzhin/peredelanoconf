@@ -2,6 +2,16 @@
 
 ### Классический формат, большой дом с территорией и бассейном, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество
 
+<table>
+  <tr>
+    <img src="https://github.com/Alexears/alexears/blob/main/yerevan/1.jpg" width=100% height=100%>
+    <td><img src="https://github.com/Alexears/alexears/blob/main/yerevan/3.jpg" width="300"/></td>
+    <td><img src="https://github.com/Alexears/alexears/blob/main/yerevan/2.jpg" width="300"/></td>
+     <td><img src="https://github.com/Alexears/alexears/blob/main/yerevan/4.jpg" width="300"/></td>
+  </tr>
+</table>
+
+
 Больше информации о формате можно найти [здесь](/./confs/standard.md)
 
 Цена участия — $90
