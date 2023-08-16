@@ -19,3 +19,7 @@
 **[Белград, Сербия](https://t.me/peredelano_belgrade)**
 
 **[Анталья, Турция](https://t.me/peredelano_antalya)**
+
+**[Гоа, Индия](https://t.me/peredelano_goa)**
+
+**[Индия](https://t.me/peredelano_india)**
