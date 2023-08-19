@@ -32,7 +32,7 @@
 
 ### 09.09.2023
 
-**[Тбилиси, Грузия](/./upcoming-events/tbilisi-16.09.23.md)**
+**[Тбилиси, Грузия](/./upcoming-events/tbilisi-09.09.23.md)**
 
 **[Астана, Казахстан](/./upcoming-events/astana-09.09.2023.md)**
 
