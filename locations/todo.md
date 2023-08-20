@@ -23,3 +23,7 @@
 **[Гоа, Индия](https://t.me/peredelano_goa)**
 
 **[Индия](https://t.me/peredelano_india)**
+
+**[Австралия](https://t.me/peredelano_australia)**
+
+**[Новая Зеландия](https://t.me/peredelano_newzealand)**
