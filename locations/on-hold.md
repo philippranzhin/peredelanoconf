@@ -9,3 +9,7 @@
 **[Прага, Чехия](https://t.me/peredelanoconf_czechia)**
 
 **[Новосибирск, Россия](https://t.me/NskDevMeetup)**
+
+**[Бангкок, Таиланд](https://t.me/peredelanoconf_bangkok)**
+
+**[Лиссабон, Португалия](https://t.me/peredelanoconflisbon)**
