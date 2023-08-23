@@ -20,7 +20,7 @@
 
 **[Буэнос-Айрес, Аргентина](/./upcoming-events/argentina-02.09.2023.md)**
 
-**[Будва, Черногория](/./upcoming-events/montenegro-02.09.2023.md)**
+**[Тиват, Черногория](/./upcoming-events/montenegro-02.09.2023.md)**
 
 **[Варшава, Польша](/./upcoming-events/warsaw-02.09.2023.md)**
 
