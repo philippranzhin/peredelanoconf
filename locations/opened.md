@@ -10,9 +10,6 @@
 
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek-26.08.2023.md)**
 
-**[Хельсинки, Финляндия](/./upcoming-events/helsinki-26.08.2023.md)**
-
-**[Батуми, Грузия](/./upcoming-events/Batumi-26.08.2023.md)**
 
 ## Сентябрь 2023
 
@@ -29,6 +26,8 @@
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi-09.09.23.md)**
 
 **[Астана, Казахстан](/./upcoming-events/astana-09.09.2023.md)**
+
+**[Батуми, Грузия](/./upcoming-events/Batumi-09.09.2023.md)**
 
 ### 16.09.2023
 
