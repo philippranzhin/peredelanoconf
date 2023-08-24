@@ -27,3 +27,5 @@
 **[Австралия](https://t.me/peredelano_australia)**
 
 **[Новая Зеландия](https://t.me/peredelano_newzealand)**
+
+**[Хельсинки, Финляндия](https://t.me/peredelanoconfhelsinki)**
