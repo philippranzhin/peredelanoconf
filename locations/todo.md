@@ -28,4 +28,5 @@
 
 **[Новая Зеландия](https://t.me/peredelano_newzealand)**
 
+**[Барселона, Испания](/./upcoming-events/barcelona-26.08.2023.md)**
 **[Хельсинки, Финляндия](https://t.me/peredelanoconfhelsinki)**
