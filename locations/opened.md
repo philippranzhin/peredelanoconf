@@ -6,8 +6,6 @@
 
 **[Ереван, Армения](/./upcoming-events/Yerevan-26.08.2023.md)**
 
-**[Барселона, Испания](/./upcoming-events/barcelona-26.08.2023.md)**
-
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek-26.08.2023.md)**
 
 
