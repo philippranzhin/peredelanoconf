@@ -13,3 +13,7 @@
 **[Бангкок, Таиланд](https://t.me/peredelanoconf_bangkok)**
 
 **[Лиссабон, Португалия](https://t.me/peredelanoconflisbon)**
+
+**[Ереван, Армения](https://t.me/peredelanoconfyerevan)**
+
+**[Бишкек, Кыргызстан](https://t.me/peredelanoconf_bishkek)**
