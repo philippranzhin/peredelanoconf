@@ -87,3 +87,5 @@
 **[Дублин, Ирландия](/./upcoming-events/dublin-07.10.2023.md)**
 
 **[Казань, Россия](https://t.me/meetup_kazan)**
+
+**[Лиссабон, Португалия](/./upcoming-events/Portugal-07.10.2023.md)**
