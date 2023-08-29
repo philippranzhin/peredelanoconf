@@ -8,8 +8,6 @@
 
 **[Тиват, Черногория](/./upcoming-events/montenegro-02.09.2023.md)**
 
-**[Варшава, Польша](/./upcoming-events/warsaw-02.09.2023.md)**
-
 ### 09.09.2023
 
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi-09.09.23.md)**
