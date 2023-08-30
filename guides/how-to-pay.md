@@ -5,8 +5,6 @@
 
 Тинькофф общий сбор [сюда](https://www.tinkoff.ru/cf/8QazJeRi5b6)
 
-Тинькофф карта 2200700864217129
-
 ---
 
 ## Bank of Georgia
