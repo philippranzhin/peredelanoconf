@@ -41,3 +41,5 @@
 **[Милан, Италия](https://t.me/peredelano_milan)**
 
 **[Хайфа, Израиль](https://t.me/peredelano_israel)**
+
+**[Будапешт, Венгрия](https://t.me/peredelanoconf_hungary)**
