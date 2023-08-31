@@ -39,3 +39,5 @@
 **[Сеул, Южная Корея](https://t.me/peredelano_seoul)**
 
 **[Милан, Италия](https://t.me/peredelano_milan)**
+
+**[Хайфа, Израиль](https://t.me/peredelano_israel)**
