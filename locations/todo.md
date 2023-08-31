@@ -35,3 +35,7 @@
 **[Варшава, Польша](https://t.me/peredelanoconf_warsaw)**
 
 **[Буэнос-Айрес, Аргентина](https://t.me/peredelanoconfargentina)**
+
+**[Сеул, Южная Корея](https://t.me/peredelano_seoul)**
+
+**[Милан, Италия](https://t.me/peredelano_milan)**
