@@ -24,15 +24,9 @@
 
 **[Будапешт, Венгрия](/./upcoming-events/Hungary-16.09.2023.md)**
 
-**[Милан, Италия](/./upcoming-events/Milan-16.09.2023.md)**
-
 **[Дубай, ОАЭ](/./upcoming-events/Dubai-16.09.2023.md)**
 
 **[Бали, Индонезия](/./upcoming-events/Bali-16.09.2023.md)**
-
-**[Сеул, Южная Корея](/./upcoming-events/Seoul-16.09.2023.md)**
-
-**[Хайфа, Израиль](/./upcoming-events/Israel-16.09.2023.md)**
 
 **[Москва, Россия](https://t.me/moscow_meetup)**
 
