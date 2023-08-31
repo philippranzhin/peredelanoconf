@@ -22,8 +22,6 @@
 
 **[Париж, Франция](/./upcoming-events/France-16.09.2023.md)**
 
-**[Будапешт, Венгрия](/./upcoming-events/Hungary-16.09.2023.md)**
-
 **[Дубай, ОАЭ](/./upcoming-events/Dubai-16.09.2023.md)**
 
 **[Бали, Индонезия](/./upcoming-events/Bali-16.09.2023.md)**
