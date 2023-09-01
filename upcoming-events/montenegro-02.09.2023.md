@@ -1,13 +1,13 @@
-# Открыта регистрация на **Peredelanoconf** в Тивате 2 сентября!
+# Открыта регистрация на **Peredelanoconf** в Подгорице 2 сентября!
 
 ### Классический формат, большой дом с территорией и бассейном, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество
 
 <table>
   <tr>
-    <img src="https://github.com/Alexears/alexears/blob/main/tivat/house/1.jpg" width=100% height=100%>
-    <td><img src="https://github.com/Alexears/alexears/blob/main/tivat/house/2.jpg" width="330"/></td>
-    <td><img src="https://github.com/Alexears/alexears/blob/main/tivat/house/3.jpg" width="330"/></td>
-     <td><img src="https://github.com/Alexears/alexears/blob/main/tivat/house/4.jpg" width="330"/></td>
+    <img src="https://github.com/Alexears/alexears/blob/main/tivat/house/5.jpg" width=100% height=100%>
+    <td><img src="https://github.com/Alexears/alexears/blob/main/tivat/house/6.jpg" width="330"/></td>
+    <td><img src="https://github.com/Alexears/alexears/blob/main/tivat/house/7.jpg" width="330"/></td>
+     <td><img src="https://github.com/Alexears/alexears/blob/main/tivat/house/8.jpg" width="330"/></td>
   </tr>
 </table>
 
