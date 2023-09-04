@@ -24,8 +24,6 @@
 
 **[Москва, Россия](https://t.me/moscow_meetup)**
 
-**[Стамбул, Турция](/./upcoming-events/istanbul-16.09.2023.md)**
-
 ### 23.09.2023
 
 **[Пномпень, Камбоджа](/./upcoming-events/phnompenh-23.09.2023.md)**
