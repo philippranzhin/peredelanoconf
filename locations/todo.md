@@ -43,3 +43,7 @@
 **[Хайфа, Израиль](https://t.me/peredelano_israel)**
 
 **[Будапешт, Венгрия](https://t.me/peredelanoconf_hungary)**
+
+**[Лондон, Англия](https://t.me/peredelanoconf_england)**
+
+**[Париж, Франция](https://t.me/peredelano_France)**
