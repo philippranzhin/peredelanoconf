@@ -16,6 +16,4 @@
 
 **[Бишкек, Кыргызстан](https://t.me/peredelanoconf_bishkek)**
 
-**[Тиват, Черногория](https://t.me/peredelanoconf_montenegro)**
-
 **[Стамбул, Турция](https://t.me/peredelanoconf_istanbul)**
