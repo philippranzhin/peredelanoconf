@@ -67,3 +67,11 @@
 **[Казань, Россия](https://t.me/meetup_kazan)**
 
 **[Лиссабон, Португалия](/./upcoming-events/Portugal-07.10.2023.md)**
+
+### 14.10.2023
+
+**[Черногория](/./upcoming-events/montenegro-14.10.2023.md)**
+
+### 28.10.2023
+
+**[Анталия, Турция](/./upcoming-events/Antalya-28.10.2023.md)**
