@@ -52,6 +52,8 @@
 
 **[Белград, Сербия](/./upcoming-events/Belgrade-30.09.2023.md)**
 
+**[Бельгия](/./upcoming-events/belgium.md)**
+
 ## Октябрь 2023
 
 ### 07.10.2023
