@@ -7,12 +7,6 @@
 
 ---
 
-## Bank of Georgia
-
-GE02BG0000000538930737
-
-Balod Konstantin
-
 ## Крипта
 
 USDT TRON (TRC20) — TGkUiyKori87EUQmWW4fqwDJNubb7yGVH2
