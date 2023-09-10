@@ -17,3 +17,9 @@
 **[Бишкек, Кыргызстан](https://t.me/peredelanoconf_bishkek)**
 
 **[Стамбул, Турция](https://t.me/peredelanoconf_istanbul)**
+
+**[Тбилиси, Грузия](https://t.me/peredelanoconf_tbilisi)**
+
+**[Астана, Казахстан](https://t.me/peredelano_Astana)**
+
+**[Батуми, Грузия](https://t.me/peredelano_batumi)**
