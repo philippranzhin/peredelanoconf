@@ -69,3 +69,9 @@
 ### 28.10.2023
 
 **[Анталия, Турция](/./upcoming-events/Antalya-28.10.2023.md)**
+
+**[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
+
+### 11.11.2023
+
+**[Ереван, Армения](/./upcoming-events/Yerevan.md)**
