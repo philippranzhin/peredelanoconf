@@ -12,10 +12,6 @@
 
 **[Бангкок, Таиланд](https://t.me/peredelanoconf_bangkok)**
 
-**[Ереван, Армения](https://t.me/peredelanoconfyerevan)**
-
-**[Бишкек, Кыргызстан](https://t.me/peredelanoconf_bishkek)**
-
 **[Стамбул, Турция](https://t.me/peredelanoconf_istanbul)**
 
 **[Тбилиси, Грузия](https://t.me/peredelanoconf_tbilisi)**
