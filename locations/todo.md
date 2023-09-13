@@ -47,3 +47,5 @@
 **[Лондон, Англия](https://t.me/peredelanoconf_england)**
 
 **[Париж, Франция](https://t.me/peredelano_France)**
+
+**[Бали, Индонезия](/./upcoming-events/Bali-16.09.2023.md)**
