@@ -8,8 +8,6 @@
 
 **[Дубай, ОАЭ](/./upcoming-events/Dubai-16.09.2023.md)**
 
-**[Бали, Индонезия](/./upcoming-events/Bali-16.09.2023.md)**
-
 **[Москва, Россия](https://t.me/moscow_meetup)**
 
 ### 23.09.2023
@@ -71,6 +69,8 @@
 **[Анталия, Турция](/./upcoming-events/Antalya-28.10.2023.md)**
 
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
+
+## Ноябрь 2023
 
 ### 11.11.2023
 
