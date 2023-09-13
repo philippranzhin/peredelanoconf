@@ -25,6 +25,11 @@
 ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/983d961b-ae8e-4cc8-a64a-c5aa37052fe5)  
 </details>
 
+### Спикеры:
+| ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/42eff575-346e-4d74-8686-81db0e08cc0e)  | 1. [Аlех Рshe](https://taplink.cc/alex_pshe_en), QA Lead, РМ и разработчица в JetBrains, которая качественно делает качественные продукты на работе и вне её. Мечтает сделать социально значимый успешный стартап, строит личный бренд и делится знаниями с сообществом. </br> Alex расскажет о том, как у неё все это получается |
+| :--- | :--- |
+
+
 ### Точное расположение:
 https://goo.gl/maps/JdQWXAvjHixfs6i7A
 
