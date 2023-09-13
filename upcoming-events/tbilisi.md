@@ -11,7 +11,7 @@
 
 Правила применения скидок [здесь](/./guides/discount.md)
 
-Регистрируйтесь в [форме](https://docs.google.com/forms/d/1CwwQVbQKLX5f0OpTt5GChNuBah3WRXm14cxBzKOflLg)
+Регистрируйтесь в [форме](https://docs.google.com/forms/d/1hvEvtHXbWAVlV28s61X-J2jPDviKL_bO6TP2WQl2iQI)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
 
