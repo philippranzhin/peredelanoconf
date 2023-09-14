@@ -68,6 +68,8 @@
 
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
 
+**[Кипр](/./upcoming-events/cyprus.md)**
+
 ## Ноябрь 2023
 
 ### 11.11.2023
