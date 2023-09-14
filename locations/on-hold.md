@@ -19,3 +19,5 @@
 **[Астана, Казахстан](https://t.me/peredelano_Astana)**
 
 **[Батуми, Грузия](https://t.me/peredelano_batumi)**
+
+**[Ташкент, Узбекистан](https://t.me/peredelanoconftashkent)**
