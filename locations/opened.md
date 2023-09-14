@@ -4,8 +4,6 @@
 
 ### 16.09.2023
 
-**[Ташкент, Узбекистан](/./upcoming-events/tashkent-16.09.2023.md)**
-
 **[Дубай, ОАЭ](/./upcoming-events/Dubai-16.09.2023.md)**
 
 **[Москва, Россия](https://t.me/moscow_meetup)**
