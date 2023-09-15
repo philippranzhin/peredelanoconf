@@ -40,8 +40,6 @@
 
 **[Белград, Сербия](/./upcoming-events/Belgrade-30.09.2023.md)**
 
-**[Бельгия](/./upcoming-events/belgium.md)**
-
 ## Октябрь 2023
 
 ### 07.10.2023
@@ -75,3 +73,5 @@
 ### 11.11.2023
 
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
+
+**[Амстердам, Нидерланды](/./upcoming-events/belgium.md)**
