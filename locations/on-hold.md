@@ -6,8 +6,6 @@
 
 **[Новосибирск, Россия](https://t.me/NskDevMeetup)**
 
-**[Бангкок, Таиланд](https://t.me/peredelanoconf_bangkok)**
-
 **[Стамбул, Турция](https://t.me/peredelanoconf_istanbul)**
 
 **[Тбилиси, Грузия](https://t.me/peredelanoconf_tbilisi)**
