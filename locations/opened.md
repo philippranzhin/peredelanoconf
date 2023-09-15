@@ -74,4 +74,6 @@
 
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
 
-**[Амстердам, Нидерланды](/./upcoming-events/belgium.md)**
+**[Амстердам, Нидерланды](/./upcoming-events/amsterdam-11.11.2023.md)**
+
+**[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
