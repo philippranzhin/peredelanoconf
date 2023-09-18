@@ -18,8 +18,6 @@
 
 **[Белград, Сербия](https://t.me/peredelano_belgrade)**
 
-**[Анталья, Турция](https://t.me/peredelano_antalya)**
-
 **[Гоа, Индия](https://t.me/peredelano_goa)**
 
 **[Индия](https://t.me/peredelano_india)**
@@ -48,4 +46,6 @@
 
 **[Париж, Франция](https://t.me/peredelano_France)**
 
-**[Бали, Индонезия](/./upcoming-events/Bali-16.09.2023.md)**
+**[Бали, Индонезия](https://t.me/peredelano_bali)**
+
+**[Дубай, ОАЭ](https://t.me/peredelanoconf_dubai)**
