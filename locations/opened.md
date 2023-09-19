@@ -75,3 +75,8 @@
 **[Амстердам, Нидерланды](/./upcoming-events/amsterdam-11.11.2023.md)**
 
 **[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
+
+### 25.11.2023
+
+**[Германия](/./upcoming-events/germany.md)**
+
