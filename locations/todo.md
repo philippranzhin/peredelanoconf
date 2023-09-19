@@ -45,5 +45,3 @@
 **[Париж, Франция](https://t.me/peredelano_France)**
 
 **[Бали, Индонезия](https://t.me/peredelano_bali)**
-
-**[Дубай, ОАЭ](https://t.me/peredelanoconf_dubai)**
