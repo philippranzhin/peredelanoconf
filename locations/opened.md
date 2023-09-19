@@ -4,6 +4,8 @@
 
 ### 23.09.2023
 
+**[Дубай, ОАЭ](/./upcoming-events/Dubai.md)**
+
 **[Пномпень, Камбоджа](/./upcoming-events/phnompenh-23.09.2023.md)**
 
 **[Ханой, Вьетнам](/./upcoming-events/vietnam-23.09.2023.md)**
