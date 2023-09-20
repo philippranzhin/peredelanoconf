@@ -2,6 +2,20 @@
 
 ### Классический формат, болльшой дом с территорией и бассейном, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество
 
+![image](https://github.com/Alexears/alexears/blob/main/phuket/1.jpg)
+
+<details>
+<summary>Ещё фото:</summary>
+
+![image](https://github.com/Alexears/alexears/blob/main/phuket/2.jpg)
+![image](https://github.com/Alexears/alexears/blob/main/phuket/3.jpg)
+
+</details>
+
+## Адрес дома [тут](https://maps.app.goo.gl/AoAuEtADLsckiYPcA?g_st=ic)
+
+---
+
 Цена участия — $100
 
 Цена для вашего партнёра $70
