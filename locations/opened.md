@@ -6,16 +6,6 @@
 
 **[Дубай, ОАЭ](/./upcoming-events/Dubai.md)**
 
-**[Пномпень, Камбоджа](/./upcoming-events/phnompenh-23.09.2023.md)**
-
-**[Ханой, Вьетнам](/./upcoming-events/vietnam-23.09.2023.md)**
-
-**[Сингапур](/./upcoming-events/singapore-23.09.2023.md)**
-
-**[Манила, Филиппины](/./upcoming-events/maynila-23.09.2023.md)**
-
-**[Осло, Норвегия](/./upcoming-events/oslo-23.09.2023.md)**
-
 **[Пхукет, Таиланд](/./upcoming-events/phuket-23.09.2023.md)**
 
 ### 30.09.2023
