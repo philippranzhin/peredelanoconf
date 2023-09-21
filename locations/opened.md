@@ -10,10 +10,6 @@
 
 ### 30.09.2023
 
-**[Душанбе, Таджикистан](/./upcoming-events/dushanbe-30.09.2023.md)**
-
-**[Баку, Азербайджан](/./upcoming-events/baku-30.09.2023.md)**
-
 **[Копенгаген, Дания](/./upcoming-events/copenhagen-30.09.2023.md)**
 
 **[Питер, Россия](/./upcoming-events/saint-petersburg-30.09.2023.md)**
