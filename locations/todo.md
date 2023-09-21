@@ -56,3 +56,7 @@
 
 **[Осло, Норвегия](https://t.me/peredelano_oslo)**
 
+**[Душанбе, Таджикистан](https://t.me/peredelano_dushanbe)**
+
+**[Баку, Азербайджан](https://t.me/peredelanoconfbaku)**
+
