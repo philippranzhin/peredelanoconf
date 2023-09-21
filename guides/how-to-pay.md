@@ -13,6 +13,8 @@ USDT TRON (TRC20) — TGkUiyKori87EUQmWW4fqwDJNubb7yGVH2
 
 BinanceID — 750175472
 
+Pay ID 750137394
+
 ---
 ## WISE/Revolut — межбанковский перевод
 
