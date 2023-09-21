@@ -45,3 +45,14 @@
 **[Париж, Франция](https://t.me/peredelano_France)**
 
 **[Бали, Индонезия](https://t.me/peredelano_bali)**
+
+**[Пномпень, Камбоджа](https://t.me/peredelano_phnompenh)**
+
+**[Ханой, Вьетнам](https://t.me/Peredelanoconfvietnam)**
+
+**[Сингапур](https://t.me/peredelano_singapore)**
+
+**[Манила, Филиппины](https://t.me/peredelano_maynila)**
+
+**[Осло, Норвегия](https://t.me/peredelano_oslo)**
+
