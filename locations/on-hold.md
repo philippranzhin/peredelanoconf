@@ -15,3 +15,7 @@
 **[Ташкент, Узбекистан](https://t.me/peredelanoconftashkent)**
 
 **[Москва, Россия](https://t.me/moscow_meetup)**
+
+**[Дубай, ОАЭ](https://t.me/peredelanoconf_dubai)**
+
+**[Пхукет, Таиланд](https://t.me/peredelanoconf)**
