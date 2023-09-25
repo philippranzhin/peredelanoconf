@@ -46,12 +46,6 @@ USDT — TAaR5NEpvduBqFWDVGXmrUqZGEJdfis4U1
 BITCOIN — 19khpJc5P57JLHwKSCHZh86vQoc2APPQY3
 
 ---
-## Kaspi (тенге)
-
-4400 4302 7788 0743
-
----
-
 Актуальная цена на конфу указана в закрепе чата конфы
 
 При переводе в других валютах — рыночный курс
