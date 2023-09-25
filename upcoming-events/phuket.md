@@ -1,30 +1,6 @@
-# Открыта регистрация на **Peredelanoconf** на Пхукете 23 сентября! 
+# **Peredelanoconf** на Пхукете! Дата нового ивента пока не открыта, следите за новостями в чате
 
 ### Классический формат, болльшой дом с территорией и бассейном, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество
-
-![image](https://github.com/Alexears/alexears/blob/main/phuket/1.jpg)
-
-<details>
-<summary>Ещё фото:</summary>
-
-![image](https://github.com/Alexears/alexears/blob/main/phuket/2.jpg)
-![image](https://github.com/Alexears/alexears/blob/main/phuket/3.jpg)
-
-</details>
-
-## Адрес дома [тут](https://maps.app.goo.gl/AoAuEtADLsckiYPcA?g_st=ic)
-
----
-
-Цена участия — $100
-
-Цена для вашего партнёра $70
-
-Для тех, кто уже был хотя бы на одной из наших конф, действует скидка: билет будет стоить $80
-
-Регистрируйтесь в [форме](https://docs.google.com/forms/d/1qw1WTKeKoOk98ibwRxkSGO7L7HEThiCv2nPUg-itz00)
-
-Закидывайте за [билет](/./guides/how-to-pay.md)
 
 Больше инофрмации о формате можно найти [здесь](/./confs/standard.md)
 
