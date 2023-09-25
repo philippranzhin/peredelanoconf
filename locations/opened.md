@@ -4,29 +4,13 @@
 
 ### 30.09.2023
 
-**[Копенгаген, Дания](/./upcoming-events/copenhagen-30.09.2023.md)**
-
 **[Питер, Россия](/./upcoming-events/saint-petersburg-30.09.2023.md)**
-
-**[Анкара, Турция](/./upcoming-events/ankara-30.09.2023.md)**
-
-**[Стокгольм, Швеция](/./upcoming-events/stockholm-30.09.2023.md)**
-
-**[Вроцлав, Польша](/./upcoming-events/wroclaw-30.09.2023.md)**
 
 **[Белград, Сербия](/./upcoming-events/Belgrade-30.09.2023.md)**
 
 ## Октябрь 2023
 
 ### 07.10.2023
-
-**[Любляна, Словения](/./upcoming-events/ljubljana-07.10.2023.md)**
-
-**[Вена, Австрия](/./upcoming-events/vienna-07.10.2023.md)**
-
-**[Кейптаун, ЮАР](/./upcoming-events/capetown-07.10.2023.md)**
-
-**[Дублин, Ирландия](/./upcoming-events/dublin-07.10.2023.md)**
 
 **[Казань, Россия](https://t.me/meetup_kazan)**
 
