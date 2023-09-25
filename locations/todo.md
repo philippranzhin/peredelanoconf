@@ -60,3 +60,19 @@
 
 **[Баку, Азербайджан](https://t.me/peredelanoconfbaku)**
 
+**[Анкара, Турция](/./upcoming-events/ankara-30.09.2023.md)**
+
+**[Стокгольм, Швеция](https://t.me/peredelano_stockholm)**
+
+**[Вроцлав, Польша](https://t.me/peredelano_wroclaw)**
+
+**[Копенгаген, Дания](https://t.me/peredelano_copenhagen)**
+
+**[Любляна, Словения](https://t.me/peredelano_slovenia)**
+
+**[Вена, Австрия](https://t.me/peredelano_vienna)**
+
+**[Кейптаун, ЮАР](https://t.me/peredelano_capetown)**
+
+**[Дублин, Ирландия](https://t.me/peredelano_dublin)**
+
