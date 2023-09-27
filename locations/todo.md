@@ -76,3 +76,6 @@
 
 **[Дублин, Ирландия](https://t.me/peredelano_dublin)**
 
+**[Казань, Россия](https://t.me/meetup_kazan)**
+
+
