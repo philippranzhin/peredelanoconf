@@ -16,25 +16,6 @@ BinanceID — 750175472
 Pay ID 750137394
 
 ---
-## WISE/Revolut — межбанковский перевод
-
-Account number — 4651509970
-
-Bank name — Bank of Ayudhya (Krungsri bank)
-
-Account holder — Ilya Lakhov
-
-EMail — [peredelanoconf@gmail.com](peredelanoconf@gmail.com)
-
-Adress — Phuket, 96/61 Soi Huay Nam Toe
-
-Post code — 83000
-
-Bic/swift AYUDTHBK
-
-Валюта пополнения — THB
-
----
 ## Wallet в Telegram
 
 Пополнение в $ и € с карты, затем перевод по нику в тг @ilakhov ну или по кошельку
