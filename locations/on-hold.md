@@ -19,3 +19,7 @@
 **[Дубай, ОАЭ](https://t.me/peredelanoconf_dubai)**
 
 **[Пхукет, Таиланд](https://t.me/peredelanoconf)**
+
+**[Питер, Россия](https://t.me/piter_meetup)**
+
+**[Белград, Сербия](https://t.me/peredelanoconfbelgrade)**
