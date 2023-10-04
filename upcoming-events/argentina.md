@@ -2,6 +2,21 @@
 
 ### Классический формат, большой дом с территорией и бассейном, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество
 
+## Место
+
+![image](https://github.com/Alexears/alexears/blob/main/argentina/1.jpg)
+
+<details>
+<summary>Ещё фото:</summary>
+
+![image](https://github.com/Alexears/alexears/blob/main/argentina/2.jpg)
+![image](https://github.com/Alexears/alexears/blob/main/argentina/3.jpg)
+![image](https://github.com/Alexears/alexears/blob/main/argentina/4.jpg)
+![image](https://github.com/Alexears/alexears/blob/main/argentina/5.jpg)
+
+</details>
+
+---
 Первые 10 билетов Early Bird!
 
 Цена участия — $70
