@@ -16,6 +16,14 @@ BinanceID — 750175472
 Pay ID 750137394
 
 ---
+
+## Bank of Georgia
+
+GE41CD0360000036018542
+
+Nikita Kalashnikov
+
+---
 ## Wallet в Telegram
 
 Пополнение в $ и € с карты, затем перевод по нику в тг @ilakhov ну или по кошельку
