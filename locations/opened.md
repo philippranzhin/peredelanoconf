@@ -36,6 +36,10 @@
 
 **[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
 
+### 18.11.2023
+
+**[Москва, Россия](/./reworked-upcoming-events/moscow.md)**
+
 ### 25.11.2023
 
 **[Германия](/./upcoming-events/germany.md)**
