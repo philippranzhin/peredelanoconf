@@ -1,6 +1,23 @@
-# Открыта регистрация на второй **Peredelanoconf** в Черногории! 
+# Открыта регистрация на второй **Peredelanoconf** в Черногории 21 октября! 
 
 ### Классический формат, большой дом с территорией и бассейном, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество
+
+## Место
+
+![image](https://github.com/Alexears/alexears/blob/main/chern/6.jpg)
+
+<details>
+<summary>Ещё фото:</summary>
+
+![image](https://github.com/Alexears/alexears/blob/main/chern/1.jpg)
+![image](https://github.com/Alexears/alexears/blob/main/chern/2.jpg)
+![image](https://github.com/Alexears/alexears/blob/main/chern/3.jpg)
+![image](https://github.com/Alexears/alexears/blob/main/chern/4.jpg)
+![image](https://github.com/Alexears/alexears/blob/main/chern/5.jpg)
+
+</details>
+
+---
 
 Первые 6 билетов Early Bird!
 
