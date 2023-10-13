@@ -2,13 +2,11 @@
 
 ## Октябрь 2023
 
-### 14.10.2023
-
-**[Черногория](/./upcoming-events/montenegro-14.10.2023.md)**
-
 ### 21.10.2023
 
 **[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
+
+**[Черногория](/./upcoming-events/montenegro.md)**
 
 ### 28.10.2023
 
