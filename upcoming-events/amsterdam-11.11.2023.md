@@ -49,9 +49,10 @@
 https://goo.gl/maps/JfEJuHHSQeQWe5Rx8
 
 ## Спикеры:
-| ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/98d2947c-23db-4fe1-b1ec-b9bc21fb5f67) | 1. [Михаил Фесенко (Fes 0xFF)](https://x.com/usehex?s=20), Backend/SRE-разработчик в Booking, популярный автор в Твиттере, переехал в Нидерланды до того, как это стало мейнстримом. </br>Михаил еще думает над темой выступления, но точно будет интересно!|
+| ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/98d2947c-23db-4fe1-b1ec-b9bc21fb5f67) | 1. [Михаил Фесенко (Fes 0xFF)](https://x.com/usehex?s=20), Backend/SRE-разработчик в Booking, популярный автор в Твиттере, переехал в Нидерланды до того, как это стало мейнстримом. </br>Михаил расскажет про то, что такое иметь Твиттер на 10к и делает ли это его популярным и счастливым.|
 | :--- | :--- |
 | ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/42eff575-346e-4d74-8686-81db0e08cc0e)  | **2. [Александра Пшеборовская (Аlех Рshe)](https://taplink.cc/alex_pshe_en), QA Lead, РМ и разработчица в JetBrains, которая качественно делает качественные продукты на работе и вне её. Мечтает сделать социально значимый успешный стартап, строит личный бренд и делится знаниями с сообществом. </br>Alex расскажет о том, как у неё все это получается** |
+| ![image](https://github.com/philippranzhin/peredelanoconf/assets/137556298/e40692e4-f6d2-4519-8825-c003394d0a59) | **3. [Виктория Дронова (Victoria Dronova)](https://www.linkedin.com/in/victoria-dronova/), Head of Programs & Operations director, Ex-Google, Philips, Ahold Delhaize. Виктория поговорит на актуальную тему, о которой не принято говорить вслух: что такое burnout-вирус -- бактерия или несовершенство иммунной системы?**|
 
 ## Стоимость
 
