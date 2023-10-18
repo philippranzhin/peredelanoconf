@@ -2,6 +2,18 @@
 
 ### Классический формат, болльшой дом с территорией и басссейном, индустриальные и развлекаательные доклады, нетворкинг, активности и упор на сообщество
 
+![image](https://github.com/Alexears/alexears/blob/main/tbilisi/11.jpg)
+
+<details>
+<summary>Ещё фото:</summary>
+
+![image](https://github.com/Alexears/alexears/blob/main/tbilisi/12.jpg)
+![image](https://github.com/Alexears/alexears/blob/main/tbilisi/13.jpg)
+![image](https://github.com/Alexears/alexears/blob/main/tbilisi/14.jpg)
+
+</details>
+
+---
 Цена участия — $100
 
 Цена для партнера $70
