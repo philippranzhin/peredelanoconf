@@ -17,8 +17,10 @@ Pay ID 750137394
 
 [EURMTL](https://montelibero.org/eurmtl/)
 <details>
-  <summary>GAX43KTWEDHB56R4MZZQNJICXXZW4SRVLMGSAC5XWQA3A24KBELRHJUH</summary>
-  <img src="https://github.com/Alexears/alexears/blob/main/landing/photo_2023-10-17_16-40-42.jpg">
+<summary>GAX43KTWEDHB56R4MZZQNJICXXZW4SRVLMGSAC5XWQA3A24KBELRHJUH</summary>
+
+![image](https://github.com/Alexears/alexears/blob/main/landing/photo_2023-10-17_16-40-42.jpg)
+
 </details>
 
 ---
