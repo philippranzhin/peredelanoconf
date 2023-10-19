@@ -56,7 +56,7 @@ https://goo.gl/maps/JfEJuHHSQeQWe5Rx8
 
 ## Стоимость
 
-**Действует Early Bird цена для первых 10-ти оплативших!** / осталось 3 места (17.09.2023)
+**Действует Early Bird цена для первых 10-ти оплативших!** / осталось 1 место (19.10.2023)
 
 Цена участия — 70€
 
@@ -69,7 +69,15 @@ https://goo.gl/maps/JfEJuHHSQeQWe5Rx8
 ## Регистрация
 
 * **Регистрируйтесь** в [форме](https://docs.google.com/forms/d/1Uz4yZKkf5jsqrcwwgXKMZkNYE-5e_n5l77qqLvSChnE)
-* **Оплачивайте** [участие](/./guides/how-to-pay.md)
+* **Оплачивайте участие** 
+  * В евро:
+    * **iDEAL/Tikkie:**
+      * 1 участник: [https://tikkie.me/pay/gm6ae44onhfgs8u1vof4](https://tikkie.me/pay/gm6ae44onhfgs8u1vof4) / со скидкой для, кто уже был: [https://tikkie.me/pay/959nrplmd05l7nvb6s13](https://tikkie.me/pay/959nrplmd05l7nvb6s13)
+      * 2 участника (+1): [https://tikkie.me/pay/g3otrt0att3jhkef9gh9](https://tikkie.me/pay/g3otrt0att3jhkef9gh9) / со скидкой для, кто уже был: [https://tikkie.me/pay/fqavo18knr9l9cl5q9u8](https://tikkie.me/pay/fqavo18knr9l9cl5q9u8)
+    * **Карта/Револют:**
+      * 1 участник: [https://revolut.me/r/LuMX3MAWs8](https://revolut.me/r/LuMX3MAWs8) / со скидкой для, кто уже был: [https://revolut.me/r/2WpqCqXwQi](https://revolut.me/r/2WpqCqXwQi)
+      * 2 участника (+1): [https://revolut.me/r/nogGPIArm6](https://revolut.me/r/nogGPIArm6) / со скидкой для, кто уже был: [https://revolut.me/r/SEDgMQlFU0](https://revolut.me/r/SEDgMQlFU0)
+  * [В криптовалюте](/./guides/how-to-pay.md)
 * **И добавляйтесь** в [чат]( https://t.me/peredelanoconf_amsterdam) нашего сообщества в Бенилюксе! 
   Чтобы задать любые вопросы, обсудить с бывшими и будущими гостями наш формат, а поделиться своими предложениями и идеями
 
