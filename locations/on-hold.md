@@ -15,3 +15,5 @@
 **[Дубай, ОАЭ](https://t.me/peredelanoconf_dubai)**
 
 **[Питер, Россия](https://t.me/piter_meetup)**
+
+**[Кипр](/./upcoming-events/cyprus.md)**
