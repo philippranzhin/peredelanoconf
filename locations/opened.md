@@ -12,8 +12,6 @@
 
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
 
-**[Кипр](/./upcoming-events/cyprus.md)**
-
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
 
 ## Ноябрь 2023
