@@ -1,31 +1,6 @@
-# Открыта регистрация на второй **Peredelanoconf** в Черногории 21 октября! 
+# **Peredelanoconf** в Черногории! Дата нового ивента пока не открыта, следите за новостями в чате
 
 ### Классический формат, большой дом с территорией и бассейном, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество
-
-## Место
-
-![image](https://github.com/Alexears/alexears/blob/main/chern/6.jpg)
-
-<details>
-<summary>Ещё фото:</summary>
-
-![image](https://github.com/Alexears/alexears/blob/main/chern/1.jpg)
-![image](https://github.com/Alexears/alexears/blob/main/chern/2.jpg)
-![image](https://github.com/Alexears/alexears/blob/main/chern/3.jpg)
-![image](https://github.com/Alexears/alexears/blob/main/chern/4.jpg)
-![image](https://github.com/Alexears/alexears/blob/main/chern/5.jpg)
-
-</details>
-
----
-
-Цена участия — €80
-
-Цена для вашего партнера €65
-
-Регистрируйтесь в [форме](https://docs.google.com/forms/d/1A_oRPyHMP-eOKHFsrlN_56dCtDHzON8HkKb2_4cPWhU)
-
-Закидывайте за [билет](/./guides/how-to-pay.md)
 
 Больше информации о формате можно найти [здесь](/./confs/standard.md)
 
