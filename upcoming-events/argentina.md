@@ -1,32 +1,6 @@
-# Открыта регистрация на **Peredelanoconf** в Буэнос-Айресе 21 октября! 
+#  **Peredelanoconf** в Буэнос-Айресе! Дата нового ивента пока не открыта, ожидайте анонса в чате
 
 ### Классический формат, большой дом с территорией и бассейном, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество
-
-## Место
-
-![image](https://github.com/Alexears/alexears/blob/main/argentina/1.jpg)
-
-<details>
-<summary>Ещё фото:</summary>
-
-![image](https://github.com/Alexears/alexears/blob/main/argentina/2.jpg)
-![image](https://github.com/Alexears/alexears/blob/main/argentina/3.jpg)
-![image](https://github.com/Alexears/alexears/blob/main/argentina/4.jpg)
-![image](https://github.com/Alexears/alexears/blob/main/argentina/5.jpg)
-
-</details>
-
----
-
-Цена участия — $100
-
-Цена для вашего партнера $70 
-
-Правила применения скидок [здесь](/./guides/discount.md)
-
-Регистрируйтесь в [форме](https://docs.google.com/forms/d/1a7jmdwhwVTWu-joknuBjuZaUkLopNt-7fSqCMlbkIaA)
-
-Закидывайте за [билет](/./guides/how-to-pay.md)
 
 Больше инофрмации о формате можно найти [здесь](/./confs/standard.md)
 
