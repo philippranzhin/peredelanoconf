@@ -17,3 +17,7 @@
 **[Питер, Россия](https://t.me/piter_meetup)**
 
 **[Кипр](/./upcoming-events/cyprus.md)**
+
+**[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
+
+**[Черногория](/./upcoming-events/montenegro.md)**
