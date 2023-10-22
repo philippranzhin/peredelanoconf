@@ -2,12 +2,6 @@
 
 ## Октябрь 2023
 
-### 21.10.2023
-
-**[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
-
-**[Черногория](/./upcoming-events/montenegro.md)**
-
 ### 28.10.2023
 
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
