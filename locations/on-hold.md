@@ -21,3 +21,5 @@
 **[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
 
 **[Черногория](/./upcoming-events/montenegro.md)**
+
+**[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
