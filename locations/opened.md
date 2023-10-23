@@ -4,8 +4,6 @@
 
 ### 28.10.2023
 
-**[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
-
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
 
 ## Ноябрь 2023
