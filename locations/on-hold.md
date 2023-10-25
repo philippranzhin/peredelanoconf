@@ -23,3 +23,5 @@
 **[Черногория](/./upcoming-events/montenegro.md)**
 
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
+
+**[Ереван, Армения](/./upcoming-events/Yerevan.md)**
