@@ -36,13 +36,13 @@ Nikita Kalashnikov
 ---
 ## Wallet в Telegram
 
-Пополнение в $ и € с карты, затем перевод по нику в тг @ilakhov ну или по кошельку
+Пополнение в $ и € с карты, затем перевод по нику в тг [@OldOleg](https://t.me/OldOleg) ну или по кошельку
 
-TON — UQBqLm_LY6fBq31Goj1EUabya5injBs0JlsGYRTthYHhWByU
+TON - UQBg2_A1NC09m6Aj_QBA4F5nSI8-vZtnlLKxaBKSNQDllvJo
 
-USDT — TAaR5NEpvduBqFWDVGXmrUqZGEJdfis4U1
+USDT - TZ8eJiCppfnLyMBNX4J1AZXPKnxi9ciVYs
 
-BITCOIN — 19khpJc5P57JLHwKSCHZh86vQoc2APPQY3
+БИТКОИН - 1J6SU4gcQBxPrdPPfKqGBmZs5c7dtGcrU9
 
 ---
 Актуальная цена на конфу указана в закрепе чата конфы
