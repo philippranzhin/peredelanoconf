@@ -1,30 +1,6 @@
-# Открыта регистрация на **Peredelanoconf** в Тбилиси 28 октября! 
+#  **Peredelanoconf** в Тбилиси1 Дата нового ивента пока не открыта, следите за новостями в чате!
 
 ### Классический формат, болльшой дом с территорией и басссейном, индустриальные и развлекаательные доклады, нетворкинг, активности и упор на сообщество
-
-![image](https://github.com/Alexears/alexears/blob/main/tbilisi/11.jpg)
-
-<details>
-<summary>Ещё фото:</summary>
-
-![image](https://github.com/Alexears/alexears/blob/main/tbilisi/12.jpg)
-![image](https://github.com/Alexears/alexears/blob/main/tbilisi/13.jpg)
-![image](https://github.com/Alexears/alexears/blob/main/tbilisi/14.jpg)
-
-</details>
-
----
-Цена участия — $100
-
-Цена для партнера $70
-
-Для тех кто был на наших прошлых митапах действует скидка на основной билет цена составит $80
-
-Правила применения скидок [здесь](/./guides/discount.md)
-
-Регистрируйтесь в [форме](https://docs.google.com/forms/d/1hvEvtHXbWAVlV28s61X-J2jPDviKL_bO6TP2WQl2iQI)
-
-Закидывайте за [билет](/./guides/how-to-pay.md)
 
 Больше инофрмации о формате можно найти [здесь](/./confs/standard.md)
 
