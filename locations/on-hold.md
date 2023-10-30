@@ -25,3 +25,5 @@
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
 
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
+
+**[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
