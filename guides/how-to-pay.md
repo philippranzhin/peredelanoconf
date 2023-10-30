@@ -29,9 +29,9 @@ Pay ID 750137394
 
 ## Bank of Georgia
 
-GE41CD0360000036018542
+GE52CD0360000037722828
 
-Nikita Kalashnikov
+Danil Kychkin
 
 ---
 ## Wallet в Telegram
