@@ -27,11 +27,13 @@ Pay ID 750137394
 
 ---
 
-##KASPI, тенге
+## KASPI, тенге
 
 4400430208574589
 
 DARIA CHISTIAKOVA
+
+---
 
 ## Bank of Georgia
 
