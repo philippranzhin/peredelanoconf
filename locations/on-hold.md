@@ -27,3 +27,5 @@
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
 
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
+
+**[Белград, Сербия](/./upcoming-events/Belgrade.md)**
