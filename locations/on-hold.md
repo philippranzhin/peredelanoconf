@@ -29,3 +29,5 @@
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
 
 **[Белград, Сербия](/./upcoming-events/Belgrade.md)**
+
+**[Алматы, Казахстан](/./upcoming-events/almaty.md)**
