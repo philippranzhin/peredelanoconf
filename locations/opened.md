@@ -24,6 +24,10 @@
 
 **[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
 
+### 09.12.2023
+
+**[Париж, Франция](/./upcoming-events/France.md)**
+
 ### 23.12.2023
 
 **[Лиссабон, Португалия](/./upcoming-events/Portugal.md)**
