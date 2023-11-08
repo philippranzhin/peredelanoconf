@@ -31,3 +31,5 @@
 **[Белград, Сербия](/./upcoming-events/Belgrade.md)**
 
 **[Алматы, Казахстан](/./upcoming-events/almaty.md)**
+
+**[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
