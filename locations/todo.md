@@ -42,8 +42,6 @@
 
 **[Лондон, Англия](https://t.me/peredelanoconf_england)**
 
-**[Париж, Франция](https://t.me/peredelano_France)**
-
 **[Бали, Индонезия](https://t.me/peredelano_bali)**
 
 **[Пномпень, Камбоджа](https://t.me/peredelano_phnompenh)**
@@ -60,7 +58,7 @@
 
 **[Баку, Азербайджан](https://t.me/peredelanoconfbaku)**
 
-**[Анкара, Турция](/./upcoming-events/ankara-30.09.2023.md)**
+**[Анкара, Турция](/./upcoming-events/ankara.md)**
 
 **[Стокгольм, Швеция](https://t.me/peredelano_stockholm)**
 
