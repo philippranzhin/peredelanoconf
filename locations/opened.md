@@ -8,8 +8,6 @@
 
 **[Амстердам, Нидерланды](/./upcoming-events/amsterdam-11.11.2023.md)**
 
-**[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
-
 ### 18.11.2023
 
 **[Москва, Россия](/./reworked-upcoming-events/moscow.md)**
@@ -23,6 +21,10 @@
 ### 02.12.2023
 
 **[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
+
+### 09.12.2023
+
+**[Париж, Франция](/./upcoming-events/France.md)**
 
 ### 23.12.2023
 
