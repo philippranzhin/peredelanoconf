@@ -2,12 +2,6 @@
 
 ## Ноябрь 2023
 
-### 11.11.2023
-
-**[Анталия, Турция](/./upcoming-events/Antalya.md)**
-
-**[Амстердам, Нидерланды](/./upcoming-events/amsterdam-11.11.2023.md)**
-
 ### 18.11.2023
 
 **[Москва, Россия](/./reworked-upcoming-events/moscow.md)**
