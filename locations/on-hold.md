@@ -33,3 +33,8 @@
 **[Алматы, Казахстан](/./upcoming-events/almaty.md)**
 
 **[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
+
+**[Анталия, Турция](/./upcoming-events/Antalya.md)**
+
+**[Амстердам, Нидерланды](/./upcoming-events/amsterdam.md)**
+
