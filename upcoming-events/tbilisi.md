@@ -8,7 +8,7 @@
 
 Далее цена за основной билет $100 и $70 для вашего партнера (скидка в 20% на первые 10 билетов не распространяется)
 
-Регистрируйтесь в [форме](https://docs.google.com/forms/d/1FE8-f8XHkCQqHBKY7r5yqfMCLmeO8qb4-jYobuqI5tk)
+Регистрируйтесь в [форме](https://docs.google.com/forms/d/1oZZG7jRq0Oir1uM1XWTZlE8z3Fxl49YFhK65-zzOmOQ)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
 
