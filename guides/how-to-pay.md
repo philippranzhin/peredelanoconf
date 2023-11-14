@@ -47,6 +47,10 @@ Danil Kychkin
 
 FR7628233000012365930983726
 
+Maksimilian Mamiliaev
+
+revtag: @yetanothersoup
+
 [Maksimilian Mamiliaev](https://t.me/yetAnotherSoup)
 
 ---
