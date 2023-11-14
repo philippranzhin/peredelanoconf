@@ -42,6 +42,15 @@ GE52CD0360000037722828
 Danil Kychkin
 
 ---
+
+## REVOLUT
+
+FR7628233000012365930983726
+
+[Maksimilian Mamiliaev](https://t.me/yetAnotherSoup)
+
+---
+
 ## Wallet в Telegram
 
 Пополнение в $ и € с карты, затем перевод по нику в тг [@OldOleg](https://t.me/OldOleg) ну или по кошельку
