@@ -20,6 +20,8 @@
 
 **[Париж, Франция](/./upcoming-events/France.md)**
 
+**[Ереван, Армения](/./upcoming-events/Yerevan.md)**
+
 ### 23.12.2023
 
 **[Лиссабон, Португалия](/./upcoming-events/Portugal.md)**
