@@ -2,10 +2,6 @@
 
 ## Ноябрь 2023
 
-### 18.11.2023
-
-**[Москва, Россия](/./reworked-upcoming-events/moscow.md)**
-
 ### 25.11.2023
 
 **[Германия](/./upcoming-events/germany.md)**
@@ -21,6 +17,10 @@
 **[Париж, Франция](/./upcoming-events/France.md)**
 
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
+
+### 16.12.2023
+
+**[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
 
 ### 23.12.2023
 
