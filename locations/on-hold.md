@@ -24,8 +24,6 @@
 
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
 
-**[Белград, Сербия](/./upcoming-events/Belgrade.md)**
-
 **[Алматы, Казахстан](/./upcoming-events/almaty.md)**
 
 **[Анталия, Турция](/./upcoming-events/Antalya.md)**
