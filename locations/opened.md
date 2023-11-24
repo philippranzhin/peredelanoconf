@@ -31,3 +31,5 @@
 ### 13.01.2024
 
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
+
+**[Белград, Сербия](/./upcoming-events/Belgrade.md)**
