@@ -76,4 +76,6 @@
 
 **[Казань, Россия](https://t.me/meetup_kazan)**
 
+**[Германия](/./upcoming-events/germany.md)**
+
 
