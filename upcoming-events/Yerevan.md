@@ -2,6 +2,28 @@
 
 ### Классический формат, большой дом с территорией и бассейном, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество
 
+![](https://github.com/Alexears/alexears/blob/main/yerevan/2/1.webp)
+
+<details>
+<summary>Еще фото</summary>
+ 
+[![][1]][1]
+ 
+[1]: https://github.com/Alexears/alexears/blob/main/yerevan/2/2.webp
+
+![](https://github.com/Alexears/alexears/blob/main/yerevan/2/3.webp)
+
+![](https://github.com/Alexears/alexears/blob/main/yerevan/2/4.webp)
+
+![](https://github.com/Alexears/alexears/blob/main/yerevan/2/5.webp)
+
+![](https://github.com/Alexears/alexears/blob/main/yerevan/2/6.webp)
+
+ 
+</details>
+
+---
+
 Первые 10 билетов Early Burd!
 
 Цена участия — $70
