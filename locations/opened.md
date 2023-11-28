@@ -26,4 +26,4 @@
 
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
 
-**[Белград, Сербия](/./upcoming-events/Belgrade.md)**
+**[Сербия](/./upcoming-events/serbia.md)**
