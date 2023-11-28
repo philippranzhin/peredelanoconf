@@ -20,6 +20,6 @@
 
 ---
 
-_По всем вопросам [Илья Лахов](https://t.me/ilakhov), основатель Peredelanoconf_
+_По всем вопросам [MR. Flowers](https://t.me/dmcdmc0) или [Mariya_Tory](https://t.me/Mariya_Tory)
 
 _Следите за новостями здесь и в чате!_
