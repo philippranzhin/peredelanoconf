@@ -24,9 +24,13 @@
 
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
 
+**[Париж, Франция](/./upcoming-events/France.md)**
+
 **[Алматы, Казахстан](/./upcoming-events/almaty.md)**
 
 **[Анталия, Турция](/./upcoming-events/Antalya.md)**
 
 **[Амстердам, Нидерланды](/./upcoming-events/amsterdam.md)**
+
+**[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
 
