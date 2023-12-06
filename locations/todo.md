@@ -75,7 +75,3 @@
 **[Дублин, Ирландия](https://t.me/peredelano_dublin)**
 
 **[Казань, Россия](https://t.me/meetup_kazan)**
-
-**[Германия](/./upcoming-events/germany.md)**
-
-
