@@ -1,36 +1,6 @@
-# Открыта регистрация на **Peredelanoconf** в Ереване 9 декабря! 
+# **Peredelanoconf** в Ереване! Дата нового ивента пока не открыта, следите за новостями в чате!
 
 ### Классический формат, большой дом с территорией и бассейном, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество
-
-![](https://github.com/Alexears/alexears/blob/main/yerevan/2/1.webp)
-
-<details>
-<summary>Еще фото</summary>
- 
-[![][1]][1]
- 
-[1]: https://github.com/Alexears/alexears/blob/main/yerevan/2/2.webp
-
-![](https://github.com/Alexears/alexears/blob/main/yerevan/2/3.webp)
-
-![](https://github.com/Alexears/alexears/blob/main/yerevan/2/4.webp)
-
-![](https://github.com/Alexears/alexears/blob/main/yerevan/2/5.webp)
-
-![](https://github.com/Alexears/alexears/blob/main/yerevan/2/6.webp)
-
- 
-</details>
-
----
-
-Цена участия — $100
-
-Цена для вашего партнера $70 
-
-Регистрируйтесь в [форме](https://docs.google.com/forms/d/1CwwQVbQKLX5f0OpTt5GChNuBah3WRXm14cxBzKOflLg)
-
-Закидывайте за [билет](/./guides/how-to-pay.md)
 
 Больше инофрмации о формате можно найти [здесь](/./confs/standard.md)
 
