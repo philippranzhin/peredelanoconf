@@ -25,3 +25,9 @@
 **[Черногория](/./upcoming-events/montenegro.md)**
 
 **[Германия](/./upcoming-events/germany.md)**
+
+## Март 2024
+
+### 09.03.2024
+
+**[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
