@@ -31,5 +31,3 @@
 **[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
 
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
-
-**[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
