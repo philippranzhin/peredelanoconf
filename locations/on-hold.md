@@ -24,8 +24,6 @@
 
 **[Алматы, Казахстан](/./upcoming-events/almaty.md)**
 
-**[Анталия, Турция](/./upcoming-events/Antalya.md)**
-
 **[Амстердам, Нидерланды](/./upcoming-events/amsterdam.md)**
 
 **[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
