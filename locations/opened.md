@@ -25,3 +25,15 @@
 ### 09.03.2024
 
 **[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
+
+### 16.03.2024
+
+**[Анталия, Турция](/./upcoming-events/Antalya.md)**
+
+**[Варшава, Польша](/./upcoming-events/warsaw.md)**
+
+## Май 2024
+
+### 04.05.2024
+
+**[Ванкувер, Канада](/./upcoming-events/canada.md)**
