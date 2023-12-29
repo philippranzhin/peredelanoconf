@@ -32,6 +32,8 @@
 
 **[Варшава, Польша](/./upcoming-events/warsaw.md)**
 
+**[Лиссабон, Португалия](/./upcoming-events/Portugal.md)**
+
 ## Май 2024
 
 ### 04.05.2024
