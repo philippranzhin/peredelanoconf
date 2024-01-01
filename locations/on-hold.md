@@ -29,5 +29,3 @@
 **[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
 
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
-
-**[Лиссабон, Португалия](/./upcoming-events/Portugal.md)**
