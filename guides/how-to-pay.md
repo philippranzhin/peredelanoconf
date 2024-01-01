@@ -3,7 +3,7 @@
 
 ## Рубли
 
-Тинькофф общий сбор [сюда](https://www.tinkoff.ru/cf/8QazJeRi5b6)
+Тинькофф общий сбор [сюда](https://www.tinkoff.ru/cf/2EaOc4P20fx)
 
 ---
 
