@@ -29,3 +29,7 @@
 **[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
 
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
+
+**[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
+
+**[Сербия](/./upcoming-events/serbia.md)**
