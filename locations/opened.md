@@ -6,8 +6,6 @@
 
 **[Черногория](/./upcoming-events/montenegro.md)**
 
-**[Германия](/./upcoming-events/germany.md)**
-
 ## Март 2024
 
 ### 02.03.2024
