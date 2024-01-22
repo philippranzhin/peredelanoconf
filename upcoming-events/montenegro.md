@@ -9,7 +9,7 @@
 Далее цена за билет составит €80 и €60 для партнера.
 (Скидка в 20% на первые 10 билетов не распространяется!)
 
-Регистрируйтесь в [форме](https://docs.google.com/forms/d/1L1fgVWC59tyt3FKP7vdyZtdt2yUgItULPfVvJHQEoj0)
+Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagRLycEWBR1xLQMV/form)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
 
