@@ -6,7 +6,7 @@
 
 Цена для вашего партнера €60
 
-Регистрируйтесь в [форме](https://docs.google.com/forms/d/15bJsj9m9ntXt3oFBZU5-hbVmt6iKLbAElaQiwJQcXWU)
+Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagN8vj9NkbdG4A1u/form)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
 
