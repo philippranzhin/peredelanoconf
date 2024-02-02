@@ -6,7 +6,7 @@
 
 €72 для партнера.
 
-Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagRLycEWBR1xLQMV/form)
+Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagYhXNj4H3PeUCVY/form)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
 
