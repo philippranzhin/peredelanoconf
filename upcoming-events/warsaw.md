@@ -8,7 +8,7 @@
 
 Далее цена составит $80
 
-Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagmi1frBm6GDAN8p/form)
+Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagKJHnFTMMWrn2PO/form)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
 
