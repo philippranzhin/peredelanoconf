@@ -8,7 +8,7 @@
 
 Далее цена за основной билет $100 и $70 для вашего партнера (скидка в 20% на первые 10 билетов не распространяется)
 
-Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagNsxyfm4maXXGRb/form)
+Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagZhhDxE04mfp3T2/form)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
 
