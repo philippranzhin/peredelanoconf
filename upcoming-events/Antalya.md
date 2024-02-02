@@ -10,7 +10,7 @@
 
 Далее цена за основной билет $100 и $70
 
-Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagzo3TaFQ0ZUcBgl/form)
+Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pag2OZLE27GvGT8rE/form)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
 
