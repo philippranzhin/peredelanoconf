@@ -6,7 +6,7 @@
 
 Цена участия — $200
 
-Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagjx50BLnnzEqbfU/form)
+Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagtBIIap3rjFbS3K/form)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
 
