@@ -30,6 +30,8 @@
 
 **[Ванкувер, Канада](/./upcoming-events/canada.md)**
 
+**[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
+
 ## Июнь 2024
 
 ### 01.06.2024
