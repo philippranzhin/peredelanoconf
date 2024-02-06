@@ -26,8 +26,6 @@
 
 **[Амстердам, Нидерланды](/./upcoming-events/amsterdam.md)**
 
-**[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
-
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
 
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
