@@ -8,10 +8,6 @@
 
 ## Март 2024
 
-### 02.03.2024
-
-**[Кипр](/./upcoming-events/cyprus.md)**
-
 ### 16.03.2024
 
 **[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
