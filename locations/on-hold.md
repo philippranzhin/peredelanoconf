@@ -29,3 +29,7 @@
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
 
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
+
+**[Кипр](/./upcoming-events/cyprus.md)**
+
+**[Черногория](/./upcoming-events/montenegro.md)**
