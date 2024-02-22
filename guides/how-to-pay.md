@@ -38,6 +38,13 @@ revtag: @yetanothersoup
 [Maksimilian Mamiliaev](https://t.me/yetAnotherSoup)
 
 ---
+## Basis bank (Georgia)
+
+GE31BS0000000011445411
+
+Daria Osipova
+
+---
 
 ## Wallet в Telegram
 
