@@ -26,6 +26,8 @@
 
 **[Амстердам, Нидерланды](/./upcoming-events/amsterdam.md)**
 
+**[Анталия, Турция](/./upcoming-events/Antalya.md)**
+
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
 
 **[Кипр](/./upcoming-events/cyprus.md)**
