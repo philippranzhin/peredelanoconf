@@ -6,8 +6,6 @@
 
 **[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
 
-**[Анталия, Турция](/./upcoming-events/Antalya.md)**
-
 **[Варшава, Польша](/./upcoming-events/warsaw.md)**
 
 **[Лиссабон, Португалия](/./upcoming-events/Portugal.md)**
