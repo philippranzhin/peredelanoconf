@@ -4,6 +4,8 @@
 
 Цена участия — $80
 
+Билет для вашего партнера — $70
+
 Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagKJHnFTMMWrn2PO/form)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
