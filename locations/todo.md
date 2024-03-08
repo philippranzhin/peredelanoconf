@@ -73,3 +73,7 @@
 **[Дублин, Ирландия](https://t.me/peredelano_dublin)**
 
 **[Казань, Россия](https://t.me/meetup_kazan)**
+
+**[Бразилия](https://t.me/peredelanoconf_brazil)**
+
+**[Лос-Анджелес, США](https://t.me/peredelano_LA)**
