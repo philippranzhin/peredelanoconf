@@ -4,7 +4,7 @@
 
 Цена участия — $100
 
-Цена для вашего партнера $70
+Цена для вашего партнера $80
 
 Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagaDbHKcOQaNOLNc/form)
 
