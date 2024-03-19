@@ -1,6 +1,16 @@
-# **reWorked meetup** в Санкт-Петербурге!Дата ивента пока не открыта, следите за новостями в чате
+# Открыта регистрация на **reWorked meetup** в Санкт-Петербурге 29 июня!
 
 ### Классический формат, большой дом с территорией и бассейном, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество
+
+Первыке 10 билетов early bird!
+
+7500р
+
+Зарегистрироваться можно [здесь](https://docs.google.com/forms/d/154Qu0uh53qeyGPCUCAT-mIUQGjR5fIoVdIVehh2PT-c/edit)
+
+Оплатить билет [здесь](https://www.tinkoff.ru/collectmoney/crowd/lakhov.vsevolod2/ow3Y239902/?short_link=2EaOc4P20fx&httpMethod=GET)
+
+Канал с анонсами [здесь](https://t.me/reworkedconf)
 
 Больше инофрмации о формате можно найти [здесь](/./confs/standard.md)
 
