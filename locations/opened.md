@@ -20,6 +20,10 @@
 
 **[Сербия](/./upcoming-events/serbia.md)**
 
+### 08.06.2024
+
+**[Берлин, Германия](/./upcoming-events/germany.md)**
+
 ### 29.06.2024
 
 **[Питер, Россия](/./reworked-upcoming-events/saint-petersburg.md)**
