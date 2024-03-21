@@ -30,8 +30,6 @@
 
 **[Варшава, Польша](/./upcoming-events/warsaw.md)**
 
-**[Лиссабон, Португалия](/./upcoming-events/Portugal.md)**
-
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
 
 **[Кипр](/./upcoming-events/cyprus.md)**
