@@ -14,6 +14,10 @@
 
 **[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
 
+### 11.05.2024
+
+**[Черногория](/./upcoming-events/montenegro.md)**
+
 ## Июнь 2024
 
 ### 01.06.2024
