@@ -14,8 +14,6 @@
 
 **[Дубай, ОАЭ](https://t.me/peredelanoconf_dubai)**
 
-**[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
-
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
 
 **[Париж, Франция](/./upcoming-events/France.md)**
