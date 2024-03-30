@@ -18,6 +18,10 @@
 
 **[Черногория](/./upcoming-events/montenegro.md)**
 
+### 18.05.2024
+
+**[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
+
 ## Июнь 2024
 
 ### 01.06.2024
