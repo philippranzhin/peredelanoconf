@@ -10,8 +10,6 @@
 
 ### 04.05.2024
 
-**[Ванкувер, Канада](/./upcoming-events/canada.md)**
-
 **[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
 
 ### 11.05.2024
