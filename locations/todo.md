@@ -72,6 +72,8 @@
 
 **[Дублин, Ирландия](https://t.me/peredelano_dublin)**
 
+**[Ванкувер, Канада](/./upcoming-events/canada.md)**
+
 **[Казань, Россия](https://t.me/meetup_kazan)**
 
 **[Бразилия](https://t.me/peredelanoconf_brazil)**
