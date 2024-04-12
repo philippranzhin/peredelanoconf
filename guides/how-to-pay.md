@@ -45,7 +45,17 @@ GE31BS0000000011445411
 Daria Osipova
 
 ---
+## Реквизиты для оплаты Пражской конфы
 
+CZK
+6654398369/0800
+Vladyslav Aslanov
+
+EUR
+6654398369/0800
+Vladyslav Aslanov
+
+---
 ## Wallet в Telegram
 
 Пополнение в $ и € с карты, затем перевод по нику в тг [@OldOleg](https://t.me/OldOleg) ну или по кошельку
