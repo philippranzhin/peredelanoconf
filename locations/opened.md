@@ -20,6 +20,8 @@
 
 **[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
 
+**[Прага, Чехия](/./upcoming-events/czechia.md)**
+
 ## Июнь 2024
 
 ### 01.06.2024
