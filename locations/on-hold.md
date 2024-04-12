@@ -1,7 +1,5 @@
 # Список городов, где конфы уже были, новые пока не объявлены
 
-**[Прага, Чехия](https://t.me/peredelanoconf_czechia)**
-
 **[Новосибирск, Россия](https://t.me/NskDevMeetup)**
 
 **[Стамбул, Турция](https://t.me/peredelanoconf_istanbul)**
