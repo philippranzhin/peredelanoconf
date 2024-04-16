@@ -41,3 +41,5 @@
 ### 06.07.2024
 
 **[Лиссабон, Португалия](/./upcoming-events/Portugal.md)**
+
+**[Ереван, Армения](/./upcoming-events/Yerevan.md)**
