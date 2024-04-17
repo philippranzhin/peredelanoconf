@@ -26,6 +26,4 @@
 
 **[Варшава, Польша](/./upcoming-events/warsaw.md)**
 
-**[Ереван, Армения](/./upcoming-events/Yerevan.md)**
-
 **[Кипр](/./upcoming-events/cyprus.md)**
