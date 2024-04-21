@@ -22,6 +22,8 @@
 
 **[Анталия, Турция](/./upcoming-events/Antalya.md)**
 
+**[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
+
 **[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
 
 **[Варшава, Польша](/./upcoming-events/warsaw.md)**
