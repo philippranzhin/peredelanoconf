@@ -28,6 +28,8 @@
 
 ### 29.06.2024
 
+**[Ереван, Армения](/./upcoming-events/Yerevan.md)**
+
 **[Питер, Россия](/./reworked-upcoming-events/saint-petersburg.md)**
 
 ## Июль 2024
@@ -35,5 +37,3 @@
 ### 06.07.2024
 
 **[Лиссабон, Португалия](/./upcoming-events/Portugal.md)**
-
-**[Ереван, Армения](/./upcoming-events/Yerevan.md)**
