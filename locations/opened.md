@@ -34,6 +34,8 @@
 
 ### 06.07.2024
 
-**[Прага, Чехия](/./upcoming-events/czechia.md)**
-
 **[Лиссабон, Португалия](/./upcoming-events/Portugal.md)**
+
+### 13.07.2024
+
+**[Прага, Чехия](/./upcoming-events/czechia.md)**
