@@ -29,3 +29,7 @@
 **[Варшава, Польша](/./upcoming-events/warsaw.md)**
 
 **[Кипр](/./upcoming-events/cyprus.md)**
+
+**[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
+
+**[Черногория](/./upcoming-events/montenegro.md)**
