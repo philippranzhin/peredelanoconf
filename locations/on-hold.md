@@ -28,6 +28,9 @@
 
 **[Варшава, Польша](/./upcoming-events/warsaw.md)**
 
+**[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
+
+
 **[Кипр](/./upcoming-events/cyprus.md)**
 
 **[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
