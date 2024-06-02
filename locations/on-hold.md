@@ -30,6 +30,8 @@
 
 **[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
 
+**[Сербия](/./upcoming-events/serbia.md)**
+
 
 **[Кипр](/./upcoming-events/cyprus.md)**
 
