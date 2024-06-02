@@ -2,10 +2,6 @@
 
 ## Июнь 2024
 
-### 01.06.2024
-
-**[Сербия](/./upcoming-events/serbia.md)**
-
 ### 08.06.2024
 
 **[Берлин, Германия](/./upcoming-events/germany.md)**
