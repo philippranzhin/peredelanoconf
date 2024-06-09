@@ -32,9 +32,10 @@
 
 **[Сербия](/./upcoming-events/serbia.md)**
 
-
 **[Кипр](/./upcoming-events/cyprus.md)**
 
 **[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
 
 **[Черногория](/./upcoming-events/montenegro.md)**
+
+**[Берлин, Германия](/./upcoming-events/germany.md)**
