@@ -20,10 +20,6 @@
 
 **[Амстердам, Нидерланды](/./upcoming-events/amsterdam.md)**
 
-**[Анталия, Турция](/./upcoming-events/Antalya.md)**
-
-**[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
-
 **[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
 
 **[Варшава, Польша](/./upcoming-events/warsaw.md)**
@@ -33,8 +29,6 @@
 **[Сербия](/./upcoming-events/serbia.md)**
 
 **[Кипр](/./upcoming-events/cyprus.md)**
-
-**[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
 
 **[Черногория](/./upcoming-events/montenegro.md)**
 
