@@ -36,7 +36,7 @@
 
 ### 23.11.2024
 
-**[Люксембург](/./upcoming-events/luxembourg.md)**
+**[Вильнюс, Литва](/./upcoming-events/vilnius.md)**
 
 ## Декабрь 2024
 
