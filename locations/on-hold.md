@@ -35,3 +35,5 @@
 **[Берлин, Германия](/./upcoming-events/germany.md)**
 
 **[Лиссабон, Португалия](/./upcoming-events/Portugal.md)**
+
+**[Прага, Чехия](/./upcoming-events/czechia.md)**
