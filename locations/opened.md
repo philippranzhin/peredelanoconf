@@ -8,12 +8,6 @@
 
 **[Питер, Россия](/./reworked-upcoming-events/saint-petersburg.md)**
 
-## Июль 2024
-
-### 13.07.2024
-
-**[Прага, Чехия](/./upcoming-events/czechia.md)**
-
 ## Сентябрь 2024
 
 ### 14.09.2024
