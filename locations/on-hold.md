@@ -37,3 +37,7 @@
 **[Лиссабон, Португалия](/./upcoming-events/Portugal.md)**
 
 **[Прага, Чехия](/./upcoming-events/czechia.md)**
+
+**[Ереван, Армения](/./upcoming-events/Yerevan.md)**
+
+**[Питер, Россия](/./reworked-upcoming-events/saint-petersburg.md)**
