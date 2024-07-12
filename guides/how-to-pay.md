@@ -40,7 +40,7 @@ revtag: @yetanothersoup
 ---
 ## Сербский динар
 
-Для оплаты динарами пишите сюда [сюда](https://t.me/Mariya_Tory)
+Для оплаты динарами пишите [сюда](https://t.me/Mariya_Tory)
 
 ---
 ## Basis bank (Georgia)
