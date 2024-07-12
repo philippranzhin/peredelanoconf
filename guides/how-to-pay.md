@@ -38,6 +38,11 @@ revtag: @yetanothersoup
 [Maksimilian Mamiliaev](https://t.me/yetAnotherSoup)
 
 ---
+## Сербский динар
+
+Для оплаты динарами пишите [сюда](https://t.me/Mariya_Tory)
+
+---
 ## Basis bank (Georgia)
 
 GE31BS0000000011445411
