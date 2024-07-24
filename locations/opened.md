@@ -8,9 +8,9 @@
 
 ## Октябрь 2024
 
-**[Сербия](/./upcoming-events/serbia.md)**
-
 ### 12.10.2024
+
+**[Сербия](/./upcoming-events/serbia.md)**
 
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
 
