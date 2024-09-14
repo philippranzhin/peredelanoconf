@@ -67,11 +67,13 @@ Vladyslav Aslanov
 
 Пополнение в $ и € с карты, затем перевод по нику в тг [@OldOleg](https://t.me/OldOleg) ну или по кошельку
 
-TON - UQBg2_A1NC09m6Aj_QBA4F5nSI8-vZtnlLKxaBKSNQDllvJo
+TON - UQBr_hhLwV_sxK5uCmn6GQH8b7Uz72wkkHzgm9QNhh9E4hLb
 
-USDT - TZ8eJiCppfnLyMBNX4J1AZXPKnxi9ciVYs
+USDT - TC7zjhbqcimwy5ooMNP8Zx1kHzvU3ZnuBG
 
-БИТКОИН - 1J6SU4gcQBxPrdPPfKqGBmZs5c7dtGcrU9
+БИТКОИН - 1CgUX5wtqj4quT1YdmrYyEKR7aa4oR7qwt
+
+DOGS - UQBr_hhLwV_sxK5uCmn6GQH8b7Uz72wkkHzgm9QNhh9E4hLb
 
 ---
 Актуальная цена на конфу указана в закрепе чата конфы
