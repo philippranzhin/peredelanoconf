@@ -24,8 +24,6 @@
 
 **[Варшава, Польша](/./upcoming-events/warsaw.md)**
 
-**[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
-
 **[Кипр](/./upcoming-events/cyprus.md)**
 
 **[Черногория](/./upcoming-events/montenegro.md)**
