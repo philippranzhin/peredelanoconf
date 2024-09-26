@@ -24,6 +24,8 @@
 
 **[Чиангмай, Таиланд](/./upcoming-events/chaingпmai.md)**
 
+**[Рига, Латвия](/./upcoming-events/latvia.md)**
+
 ### 21.12.2024
 
 **[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
