@@ -37,3 +37,7 @@
 **[Ереван, Армения](/./upcoming-events/Yerevan.md)**
 
 **[Питер, Россия](/./reworked-upcoming-events/saint-petersburg.md)**
+
+**[Сербия](/./upcoming-events/serbia.md)**
+
+**[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
