@@ -18,8 +18,6 @@
 
 **[Алматы, Казахстан](/./upcoming-events/almaty.md)**
 
-**[Амстердам, Нидерланды](/./upcoming-events/amsterdam.md)**
-
 **[Бангкок, Таиланд](/./upcoming-events/bangkok.md)**
 
 **[Варшава, Польша](/./upcoming-events/warsaw.md)**
@@ -41,3 +39,6 @@
 **[Сербия](/./upcoming-events/serbia.md)**
 
 **[Тбилиси, Грузия](/./upcoming-events/tbilisi.md)**
+
+**[Анталья, Турция](/./upcoming-events/tbilisi.md)**
+
