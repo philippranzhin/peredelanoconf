@@ -4,7 +4,7 @@
 
 ### 09.11.2024
 
-**[Анталия, Турция](/./upcoming-events/Antalya.md)**
+**[Амстердам, Нидерланды](/./upcoming-events/amsterdam.md)**
 
 ### 16.11.2024
 
@@ -27,3 +27,5 @@
 ### 25.01.2025
 
 **[Берлин, Германия](/./upcoming-events/germany.md)**
+
+**[Мадрид, Испания](/./upcoming-events/madrid.md)**
