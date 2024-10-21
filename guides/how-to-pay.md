@@ -37,7 +37,7 @@ revtag: @yetanothersoup
 
 [Maksimilian Mamiliaev](https://t.me/yetAnotherSoup)
 
-## TIKKIE
+## TIKKIE (Для ивента в Амстердаме)
 
 [Билет со скидкой 20% за 112 EUR](https://tikkie.me/pay/b2ofaoa3ghnhnbqf198q)
 
