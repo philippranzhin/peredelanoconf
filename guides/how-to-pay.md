@@ -39,9 +39,10 @@ revtag: @yetanothersoup
 
 ## TIKKIE (Для ивента в Амстердаме)
 
-[Билет со скидкой 20% за 112 EUR](https://tikkie.me/pay/b2ofaoa3ghnhnbqf198q)
 
-[Билет со,скидкой и +1 за 182 EUR (112 + 70)](https://tikkie.me/pay/7valqbcjb2vlb52att0b)
+[Стандартный билет за 140 EUR](https://tikkie.me/pay/7tvkb8eis65u3678r0gi)
+
+[Два билета: стандартный и +1 за 210 EUR (140 + 70)](https://tikkie.me/pay/8b4f2e5msj366mjopr6q)
 
 [Отдельный билет для +1 за 70 EUR](https://tikkie.me/pay/ank83cffitrmetb6ok94)
 
