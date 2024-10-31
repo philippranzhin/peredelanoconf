@@ -39,19 +39,17 @@ revtag: @yetanothersoup
 
 ## TIKKIE (Для ивента в Амстердаме)
 
-### Стандартная стоимость ###
+### Станрдартная стоимость ###
+[Для одного – 140 EUR](https://tikkie.me/pay/7tvkb8eis65u3678r0gi)
 
-[Для одного - 140 EUR](https://tikkie.me/pay/ptj3hhqr8p3r90ro8hbb)
-
-[Для 1+1 - 210 EUR (140 + 70)](https://tikkie.me/pay/flg3edc8ln0n1bldgo83)
-
-[Доплата за билет для +1 - 70 EUR](https://tikkie.me/pay/cs6ip8mflajsfrcjv1ue)
+[Для 1+1 – 210 EUR (140 + 70)](https://tikkie.me/pay/8b4f2e5msj366mjopr6q)
 
 ### Со скидкой 20% для тех, кто не в первый раз ###
+[Для одного – 112 EUR](https://tikkie.me/pay/b2ofaoa3ghnhnbqf198q)
 
-[Для одного - 112 EUR](https://tikkie.me/pay/b2ofaoa3ghnhnbqf198q)
+[Для 1+1 – 182 EUR (112 + 70)](https://tikkie.me/pay/7valqbcjb2vlb52att0b)
 
-[Для 1+1 - 182 EUR (112 + 70)](https://tikkie.me/pay/7valqbcjb2vlb52att0b)
+* [Отдельная доплата за +1 – 70 EUR](https://tikkie.me/pay/ank83cffitrmetb6ok94)
 
 ---
 ## Сербский динар
