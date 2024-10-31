@@ -49,7 +49,7 @@ revtag: @yetanothersoup
 
 [Для 1+1 – 182 EUR (112 + 70)](https://tikkie.me/pay/7valqbcjb2vlb52att0b)
 
-* [Отдельная доплата за +1 – 70 EUR](https://tikkie.me/pay/ank83cffitrmetb6ok94) *
+* [Отдельная доплата за +1 – 70 EUR](https://tikkie.me/pay/ank83cffitrmetb6ok94)
 
 ---
 ## Сербский динар
