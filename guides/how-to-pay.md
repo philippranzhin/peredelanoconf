@@ -40,8 +40,8 @@ revtag: @yetanothersoup
 ## TIKKIE (Для ивента в Амстердаме)
 
 ### Станрдартная стоимость ###
-- [Для одного – 140 EUR](https://tikkie.me/pay/7tvkb8eis65u3678r0gi)
-- [Для 1+1 – 210 EUR (140 + 70)](https://tikkie.me/pay/8b4f2e5msj366mjopr6q)
+- [Для одного – 140 EUR](https://tikkie.me/pay/ptj3hhqr8p3r90ro8hbb)
+- [Для 1+1 – 210 EUR (140 + 70)](https://tikkie.me/pay/flg3edc8ln0n1bldgo83)
 
 ### Со скидкой 20% для тех, кто не в первый раз ###
 - [Для одного – 112 EUR](https://tikkie.me/pay/b2ofaoa3ghnhnbqf198q)
