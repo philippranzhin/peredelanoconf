@@ -14,7 +14,7 @@
 
 ### 14.12.2024
 
-**[Чиангмай, Таиланд](/./upcoming-events/chiangпmai.md)**
+**[Чиангмай, Таиланд](/./upcoming-events/chiangmai.md)**
 
 **[Рига, Латвия](/./upcoming-events/latvia.md)**
 
