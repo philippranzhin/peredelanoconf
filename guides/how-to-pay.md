@@ -52,8 +52,8 @@ revtag: @yetanothersoup
 - [Для 1+1 – 210 EUR (140 + 70)](https://tikkie.me/pay/flg3edc8ln0n1bldgo83)
 
 ### Со скидкой 20% для тех, кто не в первый раз ###
-- [Для одного – 112 EUR](https://tikkie.me/pay/b2ofaoa3ghnhnbqf198q)
-- [Для 1+1 – 182 EUR (112 + 70)](https://tikkie.me/pay/7valqbcjb2vlb52att0b)
+- [Для одного – 112 EUR](https://tikkie.me/pay/p7pqfkoa8oegj6qgdpar)
+- [Для 1+1 – 182 EUR (112 + 70)](https://tikkie.me/pay/j39u6e8pg3o17q1f5ktl)
 
 
 [Отдельная доплата за +1 – 70 EUR](https://tikkie.me/pay/ank83cffitrmetb6ok94)
