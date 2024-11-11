@@ -42,3 +42,5 @@
 
 **[Анталья, Турция](/./upcoming-events/tbilisi.md)**
 
+**[Амстердам, Нидерланды](/./upcoming-events/amsterdam.md)**
+
