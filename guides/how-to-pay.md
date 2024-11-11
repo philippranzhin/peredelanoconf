@@ -45,19 +45,6 @@ revtag: @yetanothersoup
 
 [Maksimilian Mamiliaev](https://t.me/yetAnotherSoup)
 
-## TIKKIE (Для ивента в Амстердаме)
-
-### Станрдартная стоимость ###
-- [Для одного – 140 EUR](https://tikkie.me/pay/ptj3hhqr8p3r90ro8hbb)
-- [Для 1+1 – 210 EUR (140 + 70)](https://tikkie.me/pay/flg3edc8ln0n1bldgo83)
-
-### Со скидкой 20% для тех, кто не в первый раз ###
-- [Для одного – 112 EUR](https://tikkie.me/pay/p7pqfkoa8oegj6qgdpar)
-- [Для 1+1 – 182 EUR (112 + 70)](https://tikkie.me/pay/j39u6e8pg3o17q1f5ktl)
-
-
-[Отдельная доплата за +1 – 70 EUR](https://tikkie.me/pay/ank83cffitrmetb6ok94)
-
 ---
 ## Сербский динар
 
