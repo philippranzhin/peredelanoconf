@@ -23,3 +23,7 @@
 **[Берлин, Германия](/./upcoming-events/germany.md)**
 
 **[Мадрид, Испания](/./upcoming-events/madrid.md)**
+
+### 19.04.2025
+
+**[Белград, Сербия](/./upcoming-events/serbia.md)**
