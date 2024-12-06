@@ -4,7 +4,7 @@
 
 Первые 10 билетов Early Bird!
 
-Цена участия — €80
+Цена участия — €90
 
 Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pageHSqeNyM2d358i/form)
 
