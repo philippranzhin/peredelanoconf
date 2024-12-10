@@ -24,6 +24,8 @@
 
 **[Мадрид, Испания](/./upcoming-events/madrid.md)**
 
+**[Дубай, ОАЭ](https://t.me/peredelanoconf_dubai)**
+
 ### 19.04.2025
 
 **[Белград, Сербия](/./upcoming-events/serbia.md)**
