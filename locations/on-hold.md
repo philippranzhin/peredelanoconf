@@ -10,8 +10,6 @@
 
 **[Ташкент, Узбекистан](https://t.me/peredelanoconftashkent)**
 
-**[Дубай, ОАЭ](https://t.me/peredelanoconf_dubai)**
-
 **[Бишкек, Кыргызстан](/./upcoming-events/bishkek.md)**
 
 **[Париж, Франция](/./upcoming-events/France.md)**
