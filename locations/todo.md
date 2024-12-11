@@ -79,3 +79,7 @@
 **[Бразилия](https://t.me/peredelanoconf_brazil)**
 
 **[Лос-Анджелес, США](https://t.me/peredelano_LA)**
+
+**[Чиангмай, Таиланд](/./upcoming-events/chiangmai.md)**
+
+**[Рига, Латвия](/./upcoming-events/latvia.md)**
