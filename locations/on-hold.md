@@ -42,3 +42,4 @@
 
 **[Амстердам, Нидерланды](/./upcoming-events/amsterdam.md)**
 
+**[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
