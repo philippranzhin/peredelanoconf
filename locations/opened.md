@@ -18,7 +18,7 @@
 
 ### 15.03.2025
 
-**[Нячанг, Вьетнам](/./upcoming-events/serbia.md)**
+**[Нячанг, Вьетнам](/./upcoming-events/vietnam.md)**
 
 ## Апрель 2025
 
