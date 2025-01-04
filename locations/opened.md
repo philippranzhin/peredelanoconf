@@ -14,6 +14,14 @@
 
 **[Дубай, ОАЭ](https://t.me/peredelanoconf_dubai)**
 
+## Март 2025
+
+### 15.03.2025
+
+**[Нячанг, Вьетнам](/./upcoming-events/vietnam.md)**
+
+## Апрель 2025
+
 ### 19.04.2025
 
 **[Белград, Сербия](/./upcoming-events/serbia.md)**
