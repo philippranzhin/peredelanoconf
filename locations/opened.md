@@ -12,7 +12,7 @@
 
 **[Мадрид, Испания](/./upcoming-events/madrid.md)**
 
-**[Дубай, ОАЭ](https://t.me/peredelanoconf_dubai)**
+**[Дубай, ОАЭ](/./upcoming-events/Dubai.md)**
 
 ## Март 2025
 
