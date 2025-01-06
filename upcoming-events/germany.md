@@ -4,7 +4,7 @@
 
 Цена участия — €130
 
-Регистрируйтесь в [форме](https://airtable.com/appbRs7OEZzeCA0B0/pagiTNlsTr2ujbj0J/form)
+Регистрируйтесь в [приложении](https://t.me/Peredelanobot)
 
 Закидывайте за [билет](/./guides/how-to-pay.md)
 
