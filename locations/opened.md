@@ -1,18 +1,11 @@
 # Открыта регистрация
 
-## Январь 2025
-
-### 18.01.2025
-
-**[Буэнос - Айрес, Аргентина](/./upcoming-events/argentina.md)**
 
 ### 25.01.2025
 
 **[Берлин, Германия](/./upcoming-events/germany.md)**
 
 **[Мадрид, Испания](/./upcoming-events/madrid.md)**
-
-**[Дубай, ОАЭ](/./upcoming-events/Dubai.md)**
 
 ## Март 2025
 
