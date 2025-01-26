@@ -43,3 +43,7 @@
 **[Амстердам, Нидерланды](/./upcoming-events/amsterdam.md)**
 
 **[Пхукет, Таиланд](/./upcoming-events/phuket.md)**
+
+**[Берлин, Германия](/./upcoming-events/germany.md)**
+
+**[Мадрид, Испания](/./upcoming-events/madrid.md)**
